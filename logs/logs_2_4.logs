@@ -1,0 +1,78 @@
+
+
+~~~ 1 ~~~
+
+For range 2 resulting key is cd. The D_r is 118.
+
+For range 6 resulting key is sponge. The D_r is 158.
+
+The right range of key is 6. The right key is sponge.
+The value of b is 2.
+
+
+
+~~~ 2 ~~~
+
+For range 2 resulting key is wu. The D_r is 116.
+
+For range 70 resulting key is quiateiwshswkgvgkyujuymiximawlwaokzkocynycqmbmqeapaesodosgcrcguqfquiet. The D_r is 140.
+
+The right range of key is 5. The right key is quiet.
+The value of b is 14.
+
+
+
+~~~ 3 ~~~
+
+For range 2 resulting key is yy. The D_r is 107.
+
+For range 9 resulting key is conscious. The D_r is 153.
+
+The right range of key is 9. The right key is conscious.
+The value of b is 20.
+
+
+
+~~~ 4 ~~~
+
+For range 2 resulting key is kk. The D_r is 97.
+
+For range 3 resulting key is zsy. The D_r is 118.
+
+The right range of key is 6. The right key is settle.
+The value of b is 7.
+
+
+
+~~~ 5 ~~~
+
+For range 2 resulting key is rk. The D_r is 106.
+
+For range 5 resulting key is aidli. The D_r is 136.
+
+For range 6 resulting key is retire. The D_r is 171.
+
+The right range of key is 6. The right key is retire.
+The value of b is 20.
+
+
+
+~~~ 6 ~~~
+
+For range 2 resulting key is us. The D_r is 100.
+
+The right range of key is 15. The right key is black-and-white.
+The value of b is 10.
+
+
+
+~~~ 7 ~~~
+
+For range -1 resulting key is . The D_r is 0.
+
+The right range of key is 9. The right key is digestion.
+The value of b is 23.
+
+
+
+Failed Examples are 2 4 6 7 

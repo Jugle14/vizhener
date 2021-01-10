@@ -1,0 +1,7552 @@
+
+
+~~~ 1 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06541273091454809
+the range of minimal delta:14
+
+The resulting key is naughtynaughty
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.04273213303195286.
+For range 7 resulting key is naughty. The value of index of coincidence is 0.06594444006891488.
+
+The right range of key is 7. The right key is naughty.
+
+
+
+~~~ 2 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.062339708129181805
+the range of minimal delta:18
+
+The resulting key is ctcinectntctntrtne
+
+Now printing deleted ranges:
+For range 2 resulting key is nt. The value of index of coincidence is 0.06010428351902901.
+
+The right range of key is 4. The right key is cent.
+
+
+
+~~~ 3 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.0655722774206117
+the range of minimal delta:40
+
+The resulting key is obsoleteobsoleteobsoleteobsoleteobsolete
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.04638162051048005.
+For range 8 resulting key is obsolete. The value of index of coincidence is 0.06685841320434259.
+
+The right range of key is 8. The right key is obsolete.
+
+
+
+~~~ 4 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06557770677039917
+the range of minimal delta:40
+
+The resulting key is luckyluckyluckyluckyluckyluckyluckylucky
+
+Now printing deleted ranges:
+For range 2 resulting key is yy. The value of index of coincidence is 0.04394657151255392.
+For range 5 resulting key is lucky. The value of index of coincidence is 0.06488715500573208.
+For range 20 resulting key is luckyluckyluckylucky. The value of index of coincidence is 0.0656473829201102.
+
+The right range of key is 5. The right key is lucky.
+
+
+
+~~~ 5 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06525573192239856
+the range of minimal delta:72
+
+The resulting key is sealsealsealsealsealsealsealsealseolsealsealsealsealsealsealsealsealseaz
+
+Now printing deleted ranges:
+For range 2 resulting key is sl. The value of index of coincidence is 0.049571308939007144.
+For range 4 resulting key is seal. The value of index of coincidence is 0.06497271467971755.
+
+The right range of key is 4. The right key is seal.
+
+
+
+~~~ 6 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 15 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.06550326106116695
+the range of minimal delta:40
+
+The resulting key is looselooselooselooselooselooselooseloose
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.04502626810867795.
+For range 5 resulting key is loose. The value of index of coincidence is 0.06434510040564552.
+For range 15 resulting key is looselooseloose. The value of index of coincidence is 0.06485899669267085.
+For range 30 resulting key is looselooselooselooselooseloose. The value of index of coincidence is 0.06522533373481883.
+
+The right range of key is 5. The right key is loose.
+
+
+
+~~~ 7 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06568856922605117
+the range of minimal delta:44
+
+The resulting key is pushpushpushpushpushpushpushpushpushpushpush
+
+Now printing deleted ranges:
+For range 2 resulting key is sh. The value of index of coincidence is 0.05187494575946211.
+For range 4 resulting key is push. The value of index of coincidence is 0.06738219457639424.
+
+The right range of key is 4. The right key is push.
+
+
+
+~~~ 8 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06745980430190957
+the range of minimal delta:66
+
+The resulting key is horseshorseshorseshorseshorseshorseshorseshorseshorseshorseshorses
+
+Now printing deleted ranges:
+For range 2 resulting key is rs. The value of index of coincidence is 0.053366656865627755.
+For range 6 resulting key is horses. The value of index of coincidence is 0.06921735339001527.
+
+The right range of key is 6. The right key is horses.
+
+
+
+~~~ 9 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06557463153722781
+the range of minimal delta:27
+
+The resulting key is oweoweoweoweoweoweoweoweowe
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04550583142850979.
+For range 3 resulting key is owe. The value of index of coincidence is 0.06630246228470424.
+For range 9 resulting key is oweoweowe. The value of index of coincidence is 0.06603251147234969.
+
+The right range of key is 3. The right key is owe.
+
+
+
+~~~ 10 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 11 was deleted
+
+minimal index of coincidence by the first method:0.06600922217360575
+the range of minimal delta:33
+
+The resulting key is instinctiveinstinctiveinstinctive
+
+Now printing deleted ranges:
+For range 2 resulting key is ii. The value of index of coincidence is 0.043053190117409934.
+For range 11 resulting key is instinctive. The value of index of coincidence is 0.06626761363308449.
+
+The right range of key is 11. The right key is instinctive.
+
+
+
+~~~ 11 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.065626571141277
+the range of minimal delta:78
+
+The resulting key is shaggychahgyshaggyshaggyshaggyshaggyshaggyshaggyshaggyshaggyshaggyshaggyshaggy
+
+Now printing deleted ranges:
+For range 2 resulting key is ah. The value of index of coincidence is 0.04551510558808222.
+For range 6 resulting key is shaggy. The value of index of coincidence is 0.0661875604930514.
+For range 30 resulting key is shaggyshaggyshaggyshaggyshaggy. The value of index of coincidence is 0.06518168857783933.
+
+The right range of key is 6. The right key is shaggy.
+
+
+
+~~~ 12 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06552713233249173
+the range of minimal delta:35
+
+The resulting key is slopeslopeslopeslopeslopeslopeslope
+
+Now printing deleted ranges:
+For range 2 resulting key is pp. The value of index of coincidence is 0.04400099598156234.
+For range 5 resulting key is slope. The value of index of coincidence is 0.06535057491344998.
+
+The right range of key is 5. The right key is slope.
+
+
+
+~~~ 13 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+ 24 was deleted
+
+minimal index of coincidence by the first method:0.06552887922189544
+the range of minimal delta:27
+
+The resulting key is dogdogdogdogdogdogdogdogdog
+
+Now printing deleted ranges:
+For range 2 resulting key is od. The value of index of coincidence is 0.04547224698429276.
+For range 3 resulting key is dog. The value of index of coincidence is 0.06467307029432455.
+For range 6 resulting key is dogdog. The value of index of coincidence is 0.06500417325354566.
+For range 24 resulting key is dogdogdogdogdogdogdogdog. The value of index of coincidence is 0.06549606054323036.
+
+The right range of key is 3. The right key is dog.
+
+
+
+~~~ 14 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06540254865795617
+the range of minimal delta:20
+
+The resulting key is knownknownknownknown
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.04474136358583242.
+For range 5 resulting key is known. The value of index of coincidence is 0.06477862428409671.
+For range 10 resulting key is knownknown. The value of index of coincidence is 0.06512002332284746.
+
+The right range of key is 5. The right key is known.
+
+
+
+~~~ 15 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.0656975517479719
+the range of minimal delta:70
+
+The resulting key is whitewhitewhitewhitewhitewhitewhitewhitewhitewhitewhitewhitewhitewhite
+
+Now printing deleted ranges:
+For range 2 resulting key is ie. The value of index of coincidence is 0.04393432007628819.
+For range 5 resulting key is white. The value of index of coincidence is 0.06386911365204706.
+For range 35 resulting key is whitewhitewhitewhitewhitewhitewhite. The value of index of coincidence is 0.06445903474952604.
+
+The right range of key is 5. The right key is white.
+
+
+
+~~~ 16 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06554610599259783
+the range of minimal delta:30
+
+The resulting key is messymessymessymessymessymessy
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.044041594035875736.
+For range 5 resulting key is messy. The value of index of coincidence is 0.06600100481505122.
+For range 10 resulting key is messymessy. The value of index of coincidence is 0.0657902551285541.
+For range 20 resulting key is messymessymessymessy. The value of index of coincidence is 0.06563339582552183.
+
+The right range of key is 5. The right key is messy.
+
+
+
+~~~ 17 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 14 was deleted
+
+minimal index of coincidence by the first method:0.06542845686791157
+the range of minimal delta:28
+
+The resulting key is loutishloutishloutishloutish
+
+Now printing deleted ranges:
+For range 2 resulting key is hh. The value of index of coincidence is 0.04220679400905903.
+For range 7 resulting key is loutish. The value of index of coincidence is 0.06697380661666376.
+For range 14 resulting key is loutishloutish. The value of index of coincidence is 0.06622966114345424.
+
+The right range of key is 7. The right key is loutish.
+
+
+
+~~~ 18 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06566287177588548
+the range of minimal delta:32
+
+The resulting key is rainrainrainrainrainrainrainrain
+
+Now printing deleted ranges:
+For range 2 resulting key is ra. The value of index of coincidence is 0.050841396272554434.
+For range 4 resulting key is rain. The value of index of coincidence is 0.06514444161502986.
+
+The right range of key is 4. The right key is rain.
+
+
+
+~~~ 19 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06525737381059195
+the range of minimal delta:6
+
+The resulting key is earthy
+
+Now printing deleted ranges:
+For range 2 resulting key is rt. The value of index of coincidence is 0.045102909956932155.
+For range 3 resulting key is eay. The value of index of coincidence is 0.05263547472594172.
+
+The right range of key is 6. The right key is earthy.
+
+
+
+~~~ 20 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06549897196313477
+the range of minimal delta:15
+
+The resulting key is jarjarjarjarjar
+
+Now printing deleted ranges:
+For range 2 resulting key is ra. The value of index of coincidence is 0.04447844127260703.
+For range 3 resulting key is jar. The value of index of coincidence is 0.0648325644690686.
+For range 9 resulting key is jarjarjar. The value of index of coincidence is 0.06524835152467018.
+
+The right range of key is 3. The right key is jar.
+
+
+
+~~~ 21 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 28 was deleted
+
+minimal index of coincidence by the first method:0.06520126485080703
+the range of minimal delta:56
+
+The resulting key is archarcharcharcharcharcharcharcharcharcharcharcharcharch
+
+Now printing deleted ranges:
+For range 2 resulting key is ah. The value of index of coincidence is 0.05072465902071055.
+For range 4 resulting key is arch. The value of index of coincidence is 0.0682088318881525.
+For range 28 resulting key is archarcharcharcharcharcharch. The value of index of coincidence is 0.06640749322985008.
+
+The right range of key is 4. The right key is arch.
+
+
+
+~~~ 22 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 12 was deleted
+
+minimal index of coincidence by the first method:0.06548194156889808
+the range of minimal delta:36
+
+The resulting key is futurefuturefuturefuturefuturefuture
+
+Now printing deleted ranges:
+For range 2 resulting key is fu. The value of index of coincidence is 0.049294602670297664.
+For range 6 resulting key is future. The value of index of coincidence is 0.0658824866462098.
+For range 12 resulting key is futurefuture. The value of index of coincidence is 0.0654021417179312.
+
+The right range of key is 6. The right key is future.
+
+
+
+~~~ 23 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06543600836173315
+the range of minimal delta:7
+
+The resulting key is contain
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.043546584983962425.
+
+The right range of key is 7. The right key is contain.
+
+
+
+~~~ 24 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06572905911879999
+the range of minimal delta:42
+
+The resulting key is abruptabruptabruptabruptabruptabruptabrupt
+
+Now printing deleted ranges:
+For range 2 resulting key is pu. The value of index of coincidence is 0.04705262009527619.
+For range 6 resulting key is abrupt. The value of index of coincidence is 0.06648978500518259.
+
+The right range of key is 6. The right key is abrupt.
+
+
+
+~~~ 25 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06581706708266892
+the range of minimal delta:18
+
+The resulting key is guiltlessguiltless
+
+Now printing deleted ranges:
+For range 2 resulting key is ts. The value of index of coincidence is 0.04178168135858702.
+For range 9 resulting key is guiltless. The value of index of coincidence is 0.06612538299826766.
+
+The right range of key is 9. The right key is guiltless.
+
+
+
+~~~ 26 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06531311859286969
+the range of minimal delta:42
+
+The resulting key is threadthreadthreadthreadthreadthreadthread
+
+Now printing deleted ranges:
+For range 2 resulting key is td. The value of index of coincidence is 0.04573255490686683.
+For range 3 resulting key is thr. The value of index of coincidence is 0.05346891948268669.
+For range 6 resulting key is thread. The value of index of coincidence is 0.06458437761069341.
+For range 18 resulting key is threadthreadthread. The value of index of coincidence is 0.0649386544908933.
+
+The right range of key is 6. The right key is thread.
+
+
+
+~~~ 27 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0657754010695187
+the range of minimal delta:72
+
+The resulting key is pizzuspizzaspizzaspizzaspizzaspizzaspizzaspizzaspizzaspizzaspizzaspizzas
+
+Now printing deleted ranges:
+For range 2 resulting key is ps. The value of index of coincidence is 0.048657038176404384.
+For range 6 resulting key is pizzas. The value of index of coincidence is 0.06652868040039045.
+
+The right range of key is 6. The right key is pizzas.
+
+
+
+~~~ 28 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 13 was deleted
+
+minimal index of coincidence by the first method:0.0656598303657127
+the range of minimal delta:78
+
+The resulting key is disillusioneddisillusioneddisillusioneddisillusioneddisillusioneddisillusioned
+
+Now printing deleted ranges:
+For range 2 resulting key is is. The value of index of coincidence is 0.04153946688254055.
+For range 13 resulting key is disillusioned. The value of index of coincidence is 0.06666022910962183.
+
+The right range of key is 13. The right key is disillusioned.
+
+
+
+~~~ 29 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06484166240263803
+the range of minimal delta:66
+
+The resulting key is threadthreadthreadthreadthreadthreadthrebdthreadthreadthreadthread
+
+Now printing deleted ranges:
+For range 2 resulting key is td. The value of index of coincidence is 0.04535668339062966.
+For range 6 resulting key is thread. The value of index of coincidence is 0.0640355030252816.
+
+The right range of key is 6. The right key is thread.
+
+
+
+~~~ 30 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06489079429034715
+the range of minimal delta:6
+
+The resulting key is bushes
+
+Now printing deleted ranges:
+For range 2 resulting key is sh. The value of index of coincidence is 0.04657594165692375.
+For range 3 resulting key is bus. The value of index of coincidence is 0.05623341144523374.
+
+The right range of key is 6. The right key is bushes.
+
+
+
+~~~ 31 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+ 16 was deleted
+
+minimal index of coincidence by the first method:0.06563023572959283
+the range of minimal delta:40
+
+The resulting key is resonantresonantresonantresonantresonant
+
+Now printing deleted ranges:
+For range 2 resulting key is ne. The value of index of coincidence is 0.048316858229437876.
+For range 8 resulting key is resonant. The value of index of coincidence is 0.06661723880683612.
+For range 16 resulting key is resonantresonant. The value of index of coincidence is 0.06624960205377271.
+
+The right range of key is 8. The right key is resonant.
+
+
+
+~~~ 32 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 21 was deleted
+
+minimal index of coincidence by the first method:0.06499061991052839
+the range of minimal delta:69
+
+The resulting key is skiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiskiski
+
+Now printing deleted ranges:
+For range 2 resulting key is si. The value of index of coincidence is 0.04485719955978133.
+For range 3 resulting key is ski. The value of index of coincidence is 0.06711156834610282.
+For range 21 resulting key is skiskiskiskiskiskiski. The value of index of coincidence is 0.06652582309592234.
+
+The right range of key is 3. The right key is ski.
+
+
+
+~~~ 33 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 32 was deleted
+
+minimal index of coincidence by the first method:0.06549337685907558
+the range of minimal delta:44
+
+The resulting key is toestoestoestoestoestoestoestoestoestoestoes
+
+Now printing deleted ranges:
+For range 2 resulting key is to. The value of index of coincidence is 0.0553637250416512.
+For range 4 resulting key is toes. The value of index of coincidence is 0.06451847792818144.
+For range 32 resulting key is toestoestoestoestoestoestoestoes. The value of index of coincidence is 0.06499944214540734.
+
+The right range of key is 4. The right key is toes.
+
+
+
+~~~ 34 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+ 16 was deleted
+
+ 48 was deleted
+
+minimal index of coincidence by the first method:0.06554834054834056
+the range of minimal delta:72
+
+The resulting key is aromaticaromaticaromaticardmaticaromaticaromaticaromaticaromaticaromatic
+
+Now printing deleted ranges:
+For range 2 resulting key is ac. The value of index of coincidence is 0.046456555385286175.
+For range 4 resulting key is aric. The value of index of coincidence is 0.055756128631191684.
+For range 8 resulting key is aromatic. The value of index of coincidence is 0.06790515218113863.
+For range 16 resulting key is aromaticaromatic. The value of index of coincidence is 0.06705537160257725.
+For range 48 resulting key is aromaticaromaticaromaticaromaticaromaticaromatic. The value of index of coincidence is 0.06521570287524785.
+
+The right range of key is 8. The right key is aromatic.
+
+
+
+~~~ 35 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06733021918792668
+the range of minimal delta:55
+
+The resulting key is alarmalarmalarmalarmalarmalarmalarmalarmalarmalarmalarm
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.047295450335080966.
+For range 5 resulting key is alarm. The value of index of coincidence is 0.06844119516946216.
+
+The right range of key is 5. The right key is alarm.
+
+
+
+~~~ 36 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06496709252806812
+the range of minimal delta:60
+
+The resulting key is dolldolldolldolldolldolldolldolldolldolldolldolldolldoladoll
+
+Now printing deleted ranges:
+For range 2 resulting key is do. The value of index of coincidence is 0.05027724971498261.
+For range 4 resulting key is doll. The value of index of coincidence is 0.06700229320695261.
+For range 20 resulting key is dolldolldolldolldoll. The value of index of coincidence is 0.06636463694092257.
+
+The right range of key is 4. The right key is doll.
+
+
+
+~~~ 37 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07003184967032376
+the range of minimal delta:3
+
+The resulting key is rod
+
+Now printing deleted ranges:
+For range 2 resulting key is dd. The value of index of coincidence is 0.04947977617905676.
+
+The right range of key is 3. The right key is rod.
+
+
+
+~~~ 38 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06573261405385375
+the range of minimal delta:5
+
+The resulting key is roomy
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.04392957088600882.
+
+The right range of key is 5. The right key is roomy.
+
+
+
+~~~ 39 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06627414140612252
+the range of minimal delta:42
+
+The resulting key is preferpreferpreferpreferpreferpreferprefer
+
+Now printing deleted ranges:
+For range 2 resulting key is er. The value of index of coincidence is 0.05576089473382814.
+For range 6 resulting key is prefer. The value of index of coincidence is 0.06680991066353949.
+
+The right range of key is 6. The right key is prefer.
+
+
+
+~~~ 40 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06617456617456617
+the range of minimal delta:36
+
+The resulting key is narrownarrownarrownarrownarrownarrow
+
+Now printing deleted ranges:
+For range 2 resulting key is na. The value of index of coincidence is 0.04807936787341822.
+For range 6 resulting key is narrow. The value of index of coincidence is 0.06688832634349694.
+
+The right range of key is 6. The right key is narrow.
+
+
+
+~~~ 41 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06416196185709021
+the range of minimal delta:6
+
+The resulting key is mother
+
+Now printing deleted ranges:
+For range 2 resulting key is th. The value of index of coincidence is 0.046803936001239686.
+
+The right range of key is 6. The right key is mother.
+
+
+
+~~~ 42 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06650308582655307
+the range of minimal delta:55
+
+The resulting key is tracetracetracetracetracetracetracetracetracetracetrace
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.043304115404268706.
+For range 5 resulting key is trace. The value of index of coincidence is 0.0678956069967066.
+
+The right range of key is 5. The right key is trace.
+
+
+
+~~~ 43 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 28 was deleted
+
+minimal index of coincidence by the first method:0.06573278772654836
+the range of minimal delta:56
+
+The resulting key is satisfysatisfysatisfysatisfysatisfysatisfysatisfysatisfy
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.042529896004857744.
+For range 7 resulting key is satisfy. The value of index of coincidence is 0.0664959083054497.
+For range 28 resulting key is satisfysatisfysatisfysatisfy. The value of index of coincidence is 0.0658642526778153.
+
+The right range of key is 7. The right key is satisfy.
+
+
+
+~~~ 44 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06706844828438119
+the range of minimal delta:45
+
+The resulting key is earthearthearthearthearthearthearthearthearth
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04368013872215552.
+For range 5 resulting key is earth. The value of index of coincidence is 0.06787362797879888.
+
+The right range of key is 5. The right key is earth.
+
+
+
+~~~ 45 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06794724337144692
+the range of minimal delta:11
+
+The resulting key is incompetent
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.042617307585943176.
+
+The right range of key is 11. The right key is incompetent.
+
+
+
+~~~ 46 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06609371021135724
+the range of minimal delta:66
+
+The resulting key is escapeescapeescapeescapeewcapeescapeescapeescapeescapeescapeescape
+
+Now printing deleted ranges:
+For range 2 resulting key is pe. The value of index of coincidence is 0.04857283518776341.
+For range 6 resulting key is escape. The value of index of coincidence is 0.06798044107030936.
+
+The right range of key is 6. The right key is escape.
+
+
+
+~~~ 47 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07085905532845194
+the range of minimal delta:7
+
+The resulting key is fairies
+
+Now printing deleted ranges:
+For range 2 resulting key is ii. The value of index of coincidence is 0.043024767843330335.
+
+The right range of key is 7. The right key is fairies.
+
+
+
+~~~ 48 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 11 was deleted
+
+minimal index of coincidence by the first method:0.06689774986054477
+the range of minimal delta:44
+
+The resulting key is efficaciousefficaciousefficaciousefficacious
+
+Now printing deleted ranges:
+For range 2 resulting key is ff. The value of index of coincidence is 0.04129973661201269.
+For range 11 resulting key is efficacious. The value of index of coincidence is 0.06807164103537751.
+
+The right range of key is 11. The right key is efficacious.
+
+
+
+~~~ 49 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07046068475759301
+the range of minimal delta:4
+
+The resulting key is loud
+
+Now printing deleted ranges:
+For range 2 resulting key is ld. The value of index of coincidence is 0.05610136420063132.
+
+The right range of key is 4. The right key is loud.
+
+
+
+~~~ 50 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06541533782187572
+the range of minimal delta:32
+
+The resulting key is spotlessspotlessspotlessspotless
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.04869976617048298.
+For range 8 resulting key is spotless. The value of index of coincidence is 0.06488431800645847.
+
+The right range of key is 8. The right key is spotless.
+
+
+
+~~~ 51 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.0675549613784908
+the range of minimal delta:75
+
+The resulting key is toughtoughtoughtoughtoughtoughtoughtoughtoughtoughtoughtoughtoughtoughtough
+
+Now printing deleted ranges:
+For range 2 resulting key is hu. The value of index of coincidence is 0.044144951532190196.
+For range 5 resulting key is tough. The value of index of coincidence is 0.06979817798451812.
+
+The right range of key is 5. The right key is tough.
+
+
+
+~~~ 52 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06762940865598575
+the range of minimal delta:8
+
+The resulting key is discreet
+
+Now printing deleted ranges:
+For range 2 resulting key is di. The value of index of coincidence is 0.04633562337768167.
+
+The right range of key is 8. The right key is discreet.
+
+
+
+~~~ 53 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06803052492387392
+the range of minimal delta:5
+
+The resulting key is train
+
+Now printing deleted ranges:
+For range 2 resulting key is nt. The value of index of coincidence is 0.04309344097101.
+
+The right range of key is 5. The right key is train.
+
+
+
+~~~ 54 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 28 was deleted
+
+minimal index of coincidence by the first method:0.06546096022840207
+the range of minimal delta:52
+
+The resulting key is sinksinksinksinksinksinksinksinksinksinksinksinksink
+
+Now printing deleted ranges:
+For range 2 resulting key is sk. The value of index of coincidence is 0.04930603076373806.
+For range 4 resulting key is sink. The value of index of coincidence is 0.06718182359597404.
+For range 28 resulting key is sinksinksinksinksinksinksink. The value of index of coincidence is 0.06652613810513701.
+
+The right range of key is 4. The right key is sink.
+
+
+
+~~~ 55 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06548052989512491
+the range of minimal delta:28
+
+The resulting key is holeholeholeholeholeholehole
+
+Now printing deleted ranges:
+For range 2 resulting key is le. The value of index of coincidence is 0.053011289628606656.
+For range 4 resulting key is hole. The value of index of coincidence is 0.06605372099740059.
+
+The right range of key is 4. The right key is hole.
+
+
+
+~~~ 56 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06545995209678074
+the range of minimal delta:36
+
+The resulting key is pipepipepipepipepipepipepipepipepipe
+
+Now printing deleted ranges:
+For range 2 resulting key is pi. The value of index of coincidence is 0.06108246597277822.
+For range 4 resulting key is pipe. The value of index of coincidence is 0.06522948717948718.
+
+The right range of key is 4. The right key is pipe.
+
+
+
+~~~ 57 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 15 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06552557502129705
+the range of minimal delta:42
+
+The resulting key is tentententententententententententententen
+
+Now printing deleted ranges:
+For range 2 resulting key is et. The value of index of coincidence is 0.04752505622107858.
+For range 3 resulting key is ten. The value of index of coincidence is 0.06676636216346427.
+For range 15 resulting key is tententententen. The value of index of coincidence is 0.06618497050908657.
+For range 18 resulting key is tentententententen. The value of index of coincidence is 0.06537600667685538.
+
+The right range of key is 3. The right key is ten.
+
+
+
+~~~ 58 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06680153856233591
+the range of minimal delta:63
+
+The resulting key is knowledgekcowledgeknowledgeknowledgeknowledgeknowledgeknowledge
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04062172305104057.
+For range 9 resulting key is knowledge. The value of index of coincidence is 0.06748781795061877.
+
+The right range of key is 9. The right key is knowledge.
+
+
+
+~~~ 59 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06603855740582647
+the range of minimal delta:14
+
+The resulting key is elegantelegant
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04423830862632374.
+For range 7 resulting key is elegant. The value of index of coincidence is 0.06639665860958065.
+
+The right range of key is 7. The right key is elegant.
+
+
+
+~~~ 60 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06650563607085347
+the range of minimal delta:54
+
+The resulting key is overratedoverratedoverrhtedoverratedoverratedoverrated
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.0434815048380546.
+For range 9 resulting key is overrated. The value of index of coincidence is 0.06838530229834577.
+For range 36 resulting key is overratedoverratedoverratedoverrated. The value of index of coincidence is 0.0673960405418206.
+
+The right range of key is 9. The right key is overrated.
+
+
+
+~~~ 61 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0656320003657334
+the range of minimal delta:24
+
+The resulting key is shaggyshaggyshaggyshaggy
+
+Now printing deleted ranges:
+For range 2 resulting key is gh. The value of index of coincidence is 0.045131419833580766.
+For range 6 resulting key is shaggy. The value of index of coincidence is 0.06586293283857249.
+
+The right range of key is 6. The right key is shaggy.
+
+
+
+~~~ 62 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.06586492449232098
+the range of minimal delta:39
+
+The resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.06767280316481325.
+For range 35 resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa. The value of index of coincidence is 0.06670885450516705.
+
+The right range of key is 11. The right key is second-hand.
+
+
+
+~~~ 63 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.0654159654159654
+the range of minimal delta:65
+
+The resulting key is furryfurryfurryfurfyfurryfurryfurryfurryfurryfurryfurryfurryfurry
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04765579432558281.
+For range 5 resulting key is furry. The value of index of coincidence is 0.06575828598793108.
+
+The right range of key is 5. The right key is furry.
+
+
+
+~~~ 64 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06843891402714933
+the range of minimal delta:4
+
+The resulting key is yoke
+
+Now printing deleted ranges:
+For range 2 resulting key is ke. The value of index of coincidence is 0.05298767094736505.
+
+The right range of key is 4. The right key is yoke.
+
+
+
+~~~ 65 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06645338669589868
+the range of minimal delta:9
+
+The resulting key is malicious
+
+Now printing deleted ranges:
+For range 2 resulting key is ii. The value of index of coincidence is 0.040392006547255235.
+
+The right range of key is 9. The right key is malicious.
+
+
+
+~~~ 66 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06559726924698607
+the range of minimal delta:6
+
+The resulting key is gifted
+
+Now printing deleted ranges:
+For range 2 resulting key is ft. The value of index of coincidence is 0.0460783386431114.
+For range 3 resulting key is gid. The value of index of coincidence is 0.053612907036789316.
+
+The right range of key is 6. The right key is gifted.
+
+
+
+~~~ 67 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06654145922238026
+the range of minimal delta:64
+
+The resulting key is childrenchildrenchildrenchildrenchiadrencoildrenchildrenchildren
+
+Now printing deleted ranges:
+For range 2 resulting key is ih. The value of index of coincidence is 0.04422605761814827.
+For range 4 resulting key is dhin. The value of index of coincidence is 0.05226249897717044.
+For range 8 resulting key is children. The value of index of coincidence is 0.06747644963171814.
+
+The right range of key is 8. The right key is children.
+
+
+
+~~~ 68 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 39 was deleted
+
+minimal index of coincidence by the first method:0.06594383857541752
+the range of minimal delta:75
+
+The resulting key is tentententententententententententententententententententententententenien
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04735245265166124.
+For range 3 resulting key is ten. The value of index of coincidence is 0.0665941332839489.
+For range 39 resulting key is tententententententententententententen. The value of index of coincidence is 0.06620692817875916.
+
+The right range of key is 3. The right key is ten.
+
+
+
+~~~ 69 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06713069066010241
+the range of minimal delta:66
+
+The resulting key is feeblefeeblefeeblefeeblefeeblefeeblefeeblefeeblefeeblefeeblefeeble
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.05012620410658286.
+For range 3 resulting key is fee. The value of index of coincidence is 0.05904687764717489.
+For range 6 resulting key is feeble. The value of index of coincidence is 0.06813793093675945.
+
+The right range of key is 6. The right key is feeble.
+
+
+
+~~~ 70 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.0667619614988036
+the range of minimal delta:63
+
+The resulting key is aftermathaftermathaftermathaftermathaftermathaftermathaftermath
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.04244993827723051.
+For range 9 resulting key is aftermath. The value of index of coincidence is 0.06789891511905334.
+
+The right range of key is 9. The right key is aftermath.
+
+
+
+~~~ 71 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06572012190976195
+the range of minimal delta:36
+
+The resulting key is voicelessvoicelessvoicelessvoiceless
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04263279325348272.
+For range 9 resulting key is voiceless. The value of index of coincidence is 0.06609857580371536.
+
+The right range of key is 9. The right key is voiceless.
+
+
+
+~~~ 72 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.0651409422590958
+the range of minimal delta:9
+
+The resulting key is agreeable
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.043018621566315585.
+
+The right range of key is 9. The right key is agreeable.
+
+
+
+~~~ 73 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 14 was deleted
+
+minimal index of coincidence by the first method:0.06555606858127867
+the range of minimal delta:49
+
+The resulting key is concernconcernconcernconcernconcernconcernconcern
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.04705595513836401.
+For range 7 resulting key is concern. The value of index of coincidence is 0.0657454612438833.
+For range 14 resulting key is concernconcern. The value of index of coincidence is 0.06562065652624004.
+
+The right range of key is 7. The right key is concern.
+
+
+
+~~~ 74 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 15 was deleted
+
+minimal index of coincidence by the first method:0.06562154730658668
+the range of minimal delta:20
+
+The resulting key is frogsfrogsfrogsfrogs
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04399130336360126.
+For range 5 resulting key is frogs. The value of index of coincidence is 0.06631463146314631.
+For range 15 resulting key is frogsfrogsfrogs. The value of index of coincidence is 0.06602000282331927.
+
+The right range of key is 5. The right key is frogs.
+
+
+
+~~~ 75 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+ 12 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.06562041183223011
+the range of minimal delta:42
+
+The resulting key is cheesecheesecheesecheesecheesecheesecheese
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.048650910015266224.
+For range 3 resulting key is ehe. The value of index of coincidence is 0.057459889282437636.
+For range 6 resulting key is cheese. The value of index of coincidence is 0.066257989668923.
+For range 12 resulting key is cheesecheese. The value of index of coincidence is 0.0659026408432731.
+For range 30 resulting key is cheesecheesecheesecheesecheese. The value of index of coincidence is 0.06569256248118038.
+
+The right range of key is 6. The right key is cheese.
+
+
+
+~~~ 76 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.06553809951965525
+the range of minimal delta:30
+
+The resulting key is crushcrushcrushcrushcrushcrush
+
+Now printing deleted ranges:
+For range 2 resulting key is hh. The value of index of coincidence is 0.04303751066088471.
+For range 5 resulting key is crush. The value of index of coincidence is 0.06465008726185437.
+For range 25 resulting key is crushcrushcrushcrushcrush. The value of index of coincidence is 0.06525004445392796.
+
+The right range of key is 5. The right key is crush.
+
+
+
+~~~ 77 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06481330924420357
+the range of minimal delta:30
+
+The resulting key is sparksparksparksparksparkspark
+
+Now printing deleted ranges:
+For range 2 resulting key is pr. The value of index of coincidence is 0.04098252684742133.
+For range 5 resulting key is spark. The value of index of coincidence is 0.06398806530557512.
+
+The right range of key is 5. The right key is spark.
+
+
+
+~~~ 78 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06534184144656165
+the range of minimal delta:7
+
+The resulting key is hideous
+
+Now printing deleted ranges:
+For range 2 resulting key is hh. The value of index of coincidence is 0.04321794918264526.
+
+The right range of key is 7. The right key is hideous.
+
+
+
+~~~ 79 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06558762006482612
+the range of minimal delta:4
+
+The resulting key is back
+
+Now printing deleted ranges:
+For range 2 resulting key is bk. The value of index of coincidence is 0.05178885989926213.
+
+The right range of key is 4. The right key is back.
+
+
+
+~~~ 80 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 13 was deleted
+
+ 52 was deleted
+
+minimal index of coincidence by the first method:0.06579008157955524
+the range of minimal delta:65
+
+The resulting key is advertisementadvertisementadvmrtisementadzertisebentadvertisement
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.0418886106166867.
+For range 13 resulting key is advertisement. The value of index of coincidence is 0.06628910884230033.
+For range 52 resulting key is advertisementadvertisementadvertisementadvertisement. The value of index of coincidence is 0.06600088355985675.
+
+The right range of key is 13. The right key is advertisement.
+
+
+
+~~~ 81 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06560479375696766
+the range of minimal delta:8
+
+The resulting key is meremere
+
+Now printing deleted ranges:
+For range 2 resulting key is me. The value of index of coincidence is 0.057281067556296916.
+For range 4 resulting key is mere. The value of index of coincidence is 0.06587089593767391.
+
+The right range of key is 4. The right key is mere.
+
+
+
+~~~ 82 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06409347458914837
+the range of minimal delta:24
+
+The resulting key is yieldingyieldingyielding
+
+Now printing deleted ranges:
+For range 2 resulting key is ni. The value of index of coincidence is 0.04568973314070998.
+For range 4 resulting key is yinl. The value of index of coincidence is 0.05321806409186812.
+For range 8 resulting key is yielding. The value of index of coincidence is 0.06332710277995905.
+
+The right range of key is 8. The right key is yielding.
+
+
+
+~~~ 83 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06592271741525473
+the range of minimal delta:36
+
+The resulting key is removeremoveremoveremoveremoveremove
+
+Now printing deleted ranges:
+For range 2 resulting key is ve. The value of index of coincidence is 0.05082942301811347.
+For range 6 resulting key is remove. The value of index of coincidence is 0.06751185826529385.
+
+The right range of key is 6. The right key is remove.
+
+
+
+~~~ 84 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06570048309178744
+the range of minimal delta:51
+
+The resulting key is useuseuseuseuseuseuseuseuseuseuseuseuseuseuseuseuse
+
+Now printing deleted ranges:
+For range 2 resulting key is ue. The value of index of coincidence is 0.046746914620755975.
+For range 3 resulting key is use. The value of index of coincidence is 0.06656216408650978.
+For range 9 resulting key is useuseuse. The value of index of coincidence is 0.0658975100835566.
+
+The right range of key is 3. The right key is use.
+
+
+
+~~~ 85 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06555225009142471
+the range of minimal delta:4
+
+The resulting key is cats
+
+Now printing deleted ranges:
+For range 2 resulting key is ta. The value of index of coincidence is 0.048929591340332035.
+
+The right range of key is 4. The right key is cats.
+
+
+
+~~~ 86 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.06552920267205978
+the range of minimal delta:70
+
+The resulting key is giantgiantgiantgiantgiantgiantgiantgiantgiantgiantgiantgiantgiantgiant
+
+Now printing deleted ranges:
+For range 2 resulting key is ta. The value of index of coincidence is 0.04376139021162197.
+For range 5 resulting key is giant. The value of index of coincidence is 0.06663680653779662.
+For range 20 resulting key is giantgiantgiantgiant. The value of index of coincidence is 0.06608893888263966.
+For range 35 resulting key is giantgiantgiantgiantgiantgiantgiant. The value of index of coincidence is 0.06539220099899246.
+
+The right range of key is 5. The right key is giant.
+
+
+
+~~~ 87 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06546905535982299
+the range of minimal delta:15
+
+The resulting key is greengreengreen
+
+Now printing deleted ranges:
+For range 2 resulting key is er. The value of index of coincidence is 0.044763730001932275.
+For range 5 resulting key is green. The value of index of coincidence is 0.06525504056561453.
+
+The right range of key is 5. The right key is green.
+
+
+
+~~~ 88 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06553329285569723
+the range of minimal delta:10
+
+The resulting key is aaaaaaaaaa
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.06572371871595906.
+
+The right range of key is 11. The right key is second-hand.
+
+
+
+~~~ 89 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 21 was deleted
+
+ 28 was deleted
+
+minimal index of coincidence by the first method:0.06562667352141036
+the range of minimal delta:63
+
+The resulting key is naughtynaughtynaughtynaughtynaughtynaughtynaughtynaughtycaughty
+
+Now printing deleted ranges:
+For range 2 resulting key is gu. The value of index of coincidence is 0.04194883344366883.
+For range 7 resulting key is naughty. The value of index of coincidence is 0.06460982654319204.
+For range 21 resulting key is naughtynaughtynaughty. The value of index of coincidence is 0.06493580483040673.
+For range 28 resulting key is naughtynaughtynaughtynaughty. The value of index of coincidence is 0.06523015062340905.
+
+The right range of key is 7. The right key is naughty.
+
+
+
+~~~ 90 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06546666666666667
+the range of minimal delta:50
+
+The resulting key is queuequeuequeuequeuequeuequeuequeuequeuequeuequeue
+
+Now printing deleted ranges:
+For range 2 resulting key is eu. The value of index of coincidence is 0.048611634117528085.
+For range 5 resulting key is queue. The value of index of coincidence is 0.06617523376045119.
+For range 20 resulting key is queuequeuequeuequeue. The value of index of coincidence is 0.06590288615736502.
+
+The right range of key is 5. The right key is queue.
+
+
+
+~~~ 91 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06452126305067479
+the range of minimal delta:72
+
+The resulting key is furniturefurnigurefurniturefurniturefurniturefurnxturefurniturefurniture
+
+Now printing deleted ranges:
+For range 2 resulting key is uf. The value of index of coincidence is 0.04202806607963052.
+For range 9 resulting key is furniture. The value of index of coincidence is 0.06376797179767707.
+
+The right range of key is 9. The right key is furniture.
+
+
+
+~~~ 92 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06713942172677904
+the range of minimal delta:36
+
+The resulting key is worthlessworthlessworthlessworthless
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04192822594339364.
+For range 9 resulting key is worthless. The value of index of coincidence is 0.0681713653490665.
+
+The right range of key is 9. The right key is worthless.
+
+
+
+~~~ 93 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06754494953587407
+the range of minimal delta:60
+
+The resulting key is harmoniousharmoniousharmoniousharmoniousharmoniousharmonious
+
+Now printing deleted ranges:
+For range 2 resulting key is hn. The value of index of coincidence is 0.04292241468681181.
+For range 5 resulting key is nirus. The value of index of coincidence is 0.052169117532871304.
+For range 10 resulting key is harmonious. The value of index of coincidence is 0.06858911052571195.
+
+The right range of key is 10. The right key is harmonious.
+
+
+
+~~~ 94 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06847980265186557
+the range of minimal delta:50
+
+The resulting key is nightnightnightnightnightnightnightnightnightnight
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.0443185793649683.
+For range 5 resulting key is night. The value of index of coincidence is 0.07004540791760654.
+
+The right range of key is 5. The right key is night.
+
+
+
+~~~ 95 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06503983299797331
+the range of minimal delta:10
+
+The resulting key is harmonious
+
+Now printing deleted ranges:
+For range 2 resulting key is ho. The value of index of coincidence is 0.04308538708029659.
+For range 5 resulting key is hiomo. The value of index of coincidence is 0.05117060872677439.
+
+The right range of key is 10. The right key is harmonious.
+
+
+
+~~~ 96 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.07021397452105886
+the range of minimal delta:8
+
+The resulting key is discreet
+
+Now printing deleted ranges:
+For range 2 resulting key is di. The value of index of coincidence is 0.046296418152705576.
+For range 4 resulting key is diet. The value of index of coincidence is 0.05290656831752722.
+
+The right range of key is 8. The right key is discreet.
+
+
+
+~~~ 97 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06565667083159797
+the range of minimal delta:49
+
+The resulting key is trembletrembletrembletrembletrembletrembletremble
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04341651408577117.
+For range 7 resulting key is tremble. The value of index of coincidence is 0.06787142954001724.
+
+The right range of key is 7. The right key is tremble.
+
+
+
+~~~ 98 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.0696236493654567
+the range of minimal delta:9
+
+The resulting key is conscious
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.04402023115633112.
+
+The right range of key is 9. The right key is conscious.
+
+
+
+~~~ 99 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07060552251534033
+the range of minimal delta:4
+
+The resulting key is rule
+
+Now printing deleted ranges:
+For range 2 resulting key is le. The value of index of coincidence is 0.053812815674495695.
+
+The right range of key is 4. The right key is rule.
+
+
+
+~~~ 100 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06702519263784085
+the range of minimal delta:55
+
+The resulting key is amuckamuckamuckamuckamuckamuckamuckamuckamuckamuckamuck
+
+Now printing deleted ranges:
+For range 2 resulting key is ma. The value of index of coincidence is 0.04165388852535865.
+For range 5 resulting key is amuck. The value of index of coincidence is 0.06888197216554592.
+
+The right range of key is 5. The right key is amuck.
+
+
+
+~~~ 101 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06620539057436109
+the range of minimal delta:49
+
+The resulting key is enviousenviousenviousenviousenviousenviousenvious
+
+Now printing deleted ranges:
+For range 2 resulting key is io. The value of index of coincidence is 0.0415336037750627.
+For range 7 resulting key is envious. The value of index of coincidence is 0.06853243298757032.
+
+The right range of key is 7. The right key is envious.
+
+
+
+~~~ 102 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 50 was deleted
+
+minimal index of coincidence by the first method:0.06545914112987283
+the range of minimal delta:60
+
+The resulting key is nuttynuttynuttynuttynuttynuttynuttynuttynuttynuttynuttynutty
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.04562329621044675.
+For range 5 resulting key is nutty. The value of index of coincidence is 0.06500050286633811.
+For range 50 resulting key is nuttynuttynuttynuttynuttynuttynuttynuttynuttynutty. The value of index of coincidence is 0.06584744536112316.
+
+The right range of key is 5. The right key is nutty.
+
+
+
+~~~ 103 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06572942308236424
+the range of minimal delta:72
+
+The resulting key is uncovereduncovereduncovereduncovereduncovereduncovereduncovereduncovered
+
+Now printing deleted ranges:
+For range 2 resulting key is er. The value of index of coincidence is 0.04118032886378078.
+For range 9 resulting key is uncovered. The value of index of coincidence is 0.06618151786034998.
+
+The right range of key is 9. The right key is uncovered.
+
+
+
+~~~ 104 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 45 was deleted
+
+minimal index of coincidence by the first method:0.06609510609510608
+the range of minimal delta:65
+
+The resulting key is cyclecyclecyclecyclecyclecyclecyclecyclecyclecyclecyclecyclecycle
+
+Now printing deleted ranges:
+For range 2 resulting key is cc. The value of index of coincidence is 0.04599708504433221.
+For range 5 resulting key is cycle. The value of index of coincidence is 0.06766932634447839.
+For range 45 resulting key is cyclecyclecyclecyclecyclecyclecyclecyclecycle. The value of index of coincidence is 0.06677797066254339.
+
+The right range of key is 5. The right key is cycle.
+
+
+
+~~~ 105 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06574909683108608
+the range of minimal delta:36
+
+The resulting key is politepolitepolitepolitepolitepolite
+
+Now printing deleted ranges:
+For range 2 resulting key is pi. The value of index of coincidence is 0.04859098247039473.
+For range 6 resulting key is polite. The value of index of coincidence is 0.06747743397959088.
+For range 18 resulting key is politepolitepolite. The value of index of coincidence is 0.06632037748753629.
+
+The right range of key is 6. The right key is polite.
+
+
+
+~~~ 106 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.067237093552883
+the range of minimal delta:66
+
+The resulting key is squeaksqueaksqueaksqueaksqueaksqueaksqueaksqueaksqueaksqueaksqueak
+
+Now printing deleted ranges:
+For range 2 resulting key is ak. The value of index of coincidence is 0.0449170653657895.
+For range 3 resulting key is sqk. The value of index of coincidence is 0.05409838326249116.
+For range 6 resulting key is squeak. The value of index of coincidence is 0.06843441612778893.
+
+The right range of key is 6. The right key is squeak.
+
+
+
+~~~ 107 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06863145258103238
+the range of minimal delta:70
+
+The resulting key is invincibleinvincibleinvincibleinvincibleinvincibleinvincibleinvincible
+
+Now printing deleted ranges:
+For range 2 resulting key is ib. The value of index of coincidence is 0.04474378034288513.
+For range 10 resulting key is invincible. The value of index of coincidence is 0.07026135509781059.
+
+The right range of key is 10. The right key is invincible.
+
+
+
+~~~ 108 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.06587216704863766
+the range of minimal delta:70
+
+The resulting key is ghostghostghostghostghostghostghostghostghostghostghostghostghostghost
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04459462975333223.
+For range 5 resulting key is ghost. The value of index of coincidence is 0.06789564308481685.
+For range 35 resulting key is ghostghostghostghostghostghostghost. The value of index of coincidence is 0.06676931642222107.
+
+The right range of key is 5. The right key is ghost.
+
+
+
+~~~ 109 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07125709675232784
+the range of minimal delta:6
+
+The resulting key is poised
+
+Now printing deleted ranges:
+For range 2 resulting key is is. The value of index of coincidence is 0.05498730920986687.
+
+The right range of key is 6. The right key is poised.
+
+
+
+~~~ 110 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 31 was deleted
+
+ 46 was deleted
+
+minimal index of coincidence by the first method:0.06621264728225681
+the range of minimal delta:62
+
+The resulting key is aaoaaaaaaaaaaaaaapaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.06853396614963915.
+For range 31 resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa. The value of index of coincidence is 0.06751678673580203.
+For range 46 resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa. The value of index of coincidence is 0.06683368999773823.
+
+The right range of key is 15. The right key is black-and-white.
+
+
+
+~~~ 111 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 12 was deleted
+
+minimal index of coincidence by the first method:0.06553957231040565
+the range of minimal delta:36
+
+The resulting key is uninteresteduninteresteduninterested
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04344113251717106.
+For range 12 resulting key is uninterested. The value of index of coincidence is 0.06466881882725052.
+
+The right range of key is 12. The right key is uninterested.
+
+
+
+~~~ 112 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 19 was deleted
+
+minimal index of coincidence by the first method:0.06576599804053009
+the range of minimal delta:55
+
+The resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.06782703251295807.
+For range 19 resulting key is aaaaaaaaaaaaaaaaaaa. The value of index of coincidence is 0.06644597395902986.
+
+The right range of key is 13. The right key is old-fashioned.
+
+
+
+~~~ 113 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06870162297128589
+the range of minimal delta:3
+
+The resulting key is mix
+
+Now printing deleted ranges:
+For range 2 resulting key is xm. The value of index of coincidence is 0.054168996487028054.
+
+The right range of key is 3. The right key is mix.
+
+
+
+~~~ 114 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.0677767255892256
+the range of minimal delta:36
+
+The resulting key is cubcubcubcubcubcubcubcubcubcubcubcub
+
+Now printing deleted ranges:
+For range 2 resulting key is bb. The value of index of coincidence is 0.04886619344464666.
+For range 3 resulting key is cub. The value of index of coincidence is 0.06968997790198883.
+
+The right range of key is 3. The right key is cub.
+
+
+
+~~~ 115 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06678226258791042
+the range of minimal delta:56
+
+The resulting key is crackercrackercrackercrackercrackercrackercrackercracker
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04397220431029088.
+For range 7 resulting key is cracker. The value of index of coincidence is 0.06791067541259653.
+
+The right range of key is 7. The right key is cracker.
+
+
+
+~~~ 116 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06635481635481638
+the range of minimal delta:64
+
+The resulting key is ordinaryordinaryordinaryordinaryordinaryordinaryordinaryordinary
+
+Now printing deleted ranges:
+For range 2 resulting key is dy. The value of index of coincidence is 0.0452938703059972.
+For range 4 resulting key is nrry. The value of index of coincidence is 0.05315464147933429.
+For range 8 resulting key is ordinary. The value of index of coincidence is 0.06770510312463515.
+
+The right range of key is 8. The right key is ordinary.
+
+
+
+~~~ 117 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06697125318929607
+the range of minimal delta:30
+
+The resulting key is fatfatfatfatfatfatfatfatfatfat
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.04721062613168251.
+For range 3 resulting key is fat. The value of index of coincidence is 0.0685134192392332.
+
+The right range of key is 3. The right key is fat.
+
+
+
+~~~ 118 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.071069161597461
+the range of minimal delta:6
+
+The resulting key is somber
+
+Now printing deleted ranges:
+For range 2 resulting key is so. The value of index of coincidence is 0.04822885700985286.
+
+The right range of key is 6. The right key is somber.
+
+
+
+~~~ 119 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06848384173965567
+the range of minimal delta:54
+
+The resulting key is obtainobtainobtainobtainobtainobtainobtainobtainobtain
+
+Now printing deleted ranges:
+For range 2 resulting key is ia. The value of index of coincidence is 0.04956289396767264.
+For range 3 resulting key is abt. The value of index of coincidence is 0.054913006261218165.
+For range 6 resulting key is obtain. The value of index of coincidence is 0.07068485700584924.
+
+The right range of key is 6. The right key is obtain.
+
+
+
+~~~ 120 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06683533059029376
+the range of minimal delta:63
+
+The resulting key is breakablebreakablebreakablebreakablebreakablebreakablebreakable
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04352540272614622.
+For range 3 resulting key is bre. The value of index of coincidence is 0.052868282417256184.
+For range 9 resulting key is breakable. The value of index of coincidence is 0.06749922280188468.
+
+The right range of key is 9. The right key is breakable.
+
+
+
+~~~ 121 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06970436306091823
+the range of minimal delta:4
+
+The resulting key is mass
+
+Now printing deleted ranges:
+For range 2 resulting key is ms. The value of index of coincidence is 0.051575419767800626.
+
+The right range of key is 4. The right key is mass.
+
+
+
+~~~ 122 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 16 was deleted
+
+ 32 was deleted
+
+minimal index of coincidence by the first method:0.06551164651493595
+the range of minimal delta:64
+
+The resulting key is forkforkforkforkforkforkforkforkforkforkforkforkforkforkforkfork
+
+Now printing deleted ranges:
+For range 2 resulting key is fo. The value of index of coincidence is 0.05409845347771346.
+For range 4 resulting key is fork. The value of index of coincidence is 0.0668836267636997.
+For range 16 resulting key is forkforkforkfork. The value of index of coincidence is 0.06605066750081132.
+For range 32 resulting key is forkforkforkforkforkforkforkfork. The value of index of coincidence is 0.06542407133160558.
+
+The right range of key is 4. The right key is fork.
+
+
+
+~~~ 123 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06747164164354942
+the range of minimal delta:45
+
+The resulting key is closecloseclosecloseclosecloseclosecloseclose
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.043550474144867526.
+For range 5 resulting key is close. The value of index of coincidence is 0.06845657712723767.
+
+The right range of key is 5. The right key is close.
+
+
+
+~~~ 124 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07059689477644185
+the range of minimal delta:5
+
+The resulting key is cover
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04521398987574782.
+
+The right range of key is 5. The right key is cover.
+
+
+
+~~~ 125 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06571403336109213
+the range of minimal delta:68
+
+The resulting key is yardyardyardyardyardyardyardyardyardyardyardyardyardyardyardyardyard
+
+Now printing deleted ranges:
+For range 2 resulting key is rd. The value of index of coincidence is 0.052368903327263336.
+For range 4 resulting key is yard. The value of index of coincidence is 0.06801512272740128.
+For range 36 resulting key is yardyardyardyardyardyardyardyardyard. The value of index of coincidence is 0.06655465921316972.
+
+The right range of key is 4. The right key is yard.
+
+
+
+~~~ 126 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06695877961700747
+the range of minimal delta:30
+
+The resulting key is oneoneoneoneoneoneoneoneoneone
+
+Now printing deleted ranges:
+For range 2 resulting key is eo. The value of index of coincidence is 0.04695304481696887.
+For range 3 resulting key is one. The value of index of coincidence is 0.06807313642756681.
+
+The right range of key is 3. The right key is one.
+
+
+
+~~~ 127 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06552132386197357
+the range of minimal delta:36
+
+The resulting key is postpostpostpostpostpostpostpostpost
+
+Now printing deleted ranges:
+For range 2 resulting key is st. The value of index of coincidence is 0.05094143901290512.
+For range 4 resulting key is post. The value of index of coincidence is 0.06730259118627094.
+
+The right range of key is 4. The right key is post.
+
+
+
+~~~ 128 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.066914517256983
+the range of minimal delta:32
+
+The resulting key is yieldingyieldingyieldingyielding
+
+Now printing deleted ranges:
+For range 2 resulting key is ni. The value of index of coincidence is 0.04563389994440788.
+For range 4 resulting key is yiel. The value of index of coincidence is 0.05550572064960302.
+For range 8 resulting key is yielding. The value of index of coincidence is 0.0680352805236465.
+
+The right range of key is 8. The right key is yielding.
+
+
+
+~~~ 129 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.066168438607463
+the range of minimal delta:60
+
+The resulting key is mixmixmixmixmixmixmixmixmixmixmixmixmixmixmixmixmixmixmixmix
+
+Now printing deleted ranges:
+For range 2 resulting key is xm. The value of index of coincidence is 0.05300449505705368.
+For range 3 resulting key is mix. The value of index of coincidence is 0.06813213428034859.
+For range 30 resulting key is mixmixmixmixmixmixmixmixmixmix. The value of index of coincidence is 0.06719311452373783.
+
+The right range of key is 3. The right key is mix.
+
+
+
+~~~ 130 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06557754214095535
+the range of minimal delta:42
+
+The resulting key is bedbedbedbedbedbedbedbedbedbedbedbedbedbed
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04573510736364398.
+For range 3 resulting key is bed. The value of index of coincidence is 0.0678644745814681.
+For range 18 resulting key is bedbedbedbedbedbed. The value of index of coincidence is 0.06706222877405259.
+
+The right range of key is 3. The right key is bed.
+
+
+
+~~~ 131 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06505361473939636
+the range of minimal delta:18
+
+The resulting key is schoolschoolschool
+
+Now printing deleted ranges:
+For range 2 resulting key is so. The value of index of coincidence is 0.04824204273362656.
+For range 3 resulting key is ocl. The value of index of coincidence is 0.05420369603608521.
+For range 6 resulting key is school. The value of index of coincidence is 0.06470243867625514.
+
+The right range of key is 6. The right key is school.
+
+
+
+~~~ 132 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 42 was deleted
+
+minimal index of coincidence by the first method:0.06567662526003308
+the range of minimal delta:51
+
+The resulting key is robrobrobrobrobrobrobrobrobrobrobrobrobrobgobrobrob
+
+Now printing deleted ranges:
+For range 2 resulting key is bb. The value of index of coincidence is 0.04622025077803174.
+For range 3 resulting key is rob. The value of index of coincidence is 0.06384718609056249.
+For range 42 resulting key is robrobrobrobrobrobrobrobrobrobrobrobrobrob. The value of index of coincidence is 0.0648307404005826.
+
+The right range of key is 3. The right key is rob.
+
+
+
+~~~ 133 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06556516695631567
+the range of minimal delta:6
+
+The resulting key is afraid
+
+Now printing deleted ranges:
+For range 2 resulting key is ra. The value of index of coincidence is 0.0432415981045483.
+For range 3 resulting key is air. The value of index of coincidence is 0.05628757011925489.
+
+The right range of key is 6. The right key is afraid.
+
+
+
+~~~ 134 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.0654414609571533
+the range of minimal delta:15
+
+The resulting key is trusttrusttrust
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.04554080097374605.
+For range 5 resulting key is trust. The value of index of coincidence is 0.06636350773344757.
+
+The right range of key is 5. The right key is trust.
+
+
+
+~~~ 135 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 12 was deleted
+
+ 20 was deleted
+
+ 48 was deleted
+
+minimal index of coincidence by the first method:0.06560467349941033
+the range of minimal delta:60
+
+The resulting key is carscarscarscarscarscarscarscarscarscarscarscarscarscarscars
+
+Now printing deleted ranges:
+For range 2 resulting key is rs. The value of index of coincidence is 0.05350458675921271.
+For range 4 resulting key is cars. The value of index of coincidence is 0.0669134799767236.
+For range 12 resulting key is carscarscars. The value of index of coincidence is 0.06631599996938244.
+For range 20 resulting key is carscarscarscarscars. The value of index of coincidence is 0.06585515346658295.
+For range 48 resulting key is carscarscarscarscarscarscarscarscarscarscarscars. The value of index of coincidence is 0.06567028985507246.
+
+The right range of key is 4. The right key is cars.
+
+
+
+~~~ 136 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 32 was deleted
+
+minimal index of coincidence by the first method:0.06603738100448626
+the range of minimal delta:64
+
+The resulting key is loudloudloudloudloudloudloudloudloudloudloudloudloudloudloudloud
+
+Now printing deleted ranges:
+For range 2 resulting key is uo. The value of index of coincidence is 0.053213439558436826.
+For range 4 resulting key is loud. The value of index of coincidence is 0.06755432800041691.
+For range 32 resulting key is loudloudloudloudloudloudloudloud. The value of index of coincidence is 0.0664048122929702.
+
+The right range of key is 4. The right key is loud.
+
+
+
+~~~ 137 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06751790719402057
+the range of minimal delta:65
+
+The resulting key is niftyniftyniftyniftyniftyniftyniftyniftyniftyniftyniftyniftynifty
+
+Now printing deleted ranges:
+For range 2 resulting key is yi. The value of index of coincidence is 0.04378079287555059.
+For range 5 resulting key is nifty. The value of index of coincidence is 0.06864308986299927.
+
+The right range of key is 5. The right key is nifty.
+
+
+
+~~~ 138 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06554828218408905
+the range of minimal delta:21
+
+The resulting key is machinemachinemachine
+
+Now printing deleted ranges:
+For range 2 resulting key is ni. The value of index of coincidence is 0.041490551103140164.
+For range 7 resulting key is machine. The value of index of coincidence is 0.06573440516136876.
+
+The right range of key is 7. The right key is machine.
+
+
+
+~~~ 139 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 14 was deleted
+
+minimal index of coincidence by the first method:0.06537514958567588
+the range of minimal delta:70
+
+The resulting key is representativerepresentativerepresentativerepresentativerepresentative
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.044537620975981275.
+For range 7 resulting key is nearive. The value of index of coincidence is 0.05397593311986303.
+For range 14 resulting key is representative. The value of index of coincidence is 0.06488953602280746.
+
+The right range of key is 14. The right key is representative.
+
+
+
+~~~ 140 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06554066992560797
+the range of minimal delta:18
+
+The resulting key is overjoyedoverjoyed
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.04116075275824142.
+For range 9 resulting key is overjoyed. The value of index of coincidence is 0.06539779776882737.
+
+The right range of key is 9. The right key is overjoyed.
+
+
+
+~~~ 141 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06588697249881462
+the range of minimal delta:32
+
+The resulting key is juvenilejuvenilejuvenilejuvenile
+
+Now printing deleted ranges:
+For range 2 resulting key is je. The value of index of coincidence is 0.04792973270036426.
+For range 4 resulting key is jive. The value of index of coincidence is 0.05810222165714948.
+For range 8 resulting key is juvenile. The value of index of coincidence is 0.06620431893687709.
+
+The right range of key is 8. The right key is juvenile.
+
+
+
+~~~ 142 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 48 was deleted
+
+minimal index of coincidence by the first method:0.06499518999519001
+the range of minimal delta:72
+
+The resulting key is superbsuperbsuperbsuperbsuperbsuperbsuperbsuperbsupevbsuperbsuperqsuperb
+
+Now printing deleted ranges:
+For range 2 resulting key is su. The value of index of coincidence is 0.04617849469079033.
+For range 6 resulting key is superb. The value of index of coincidence is 0.06724933365116235.
+For range 48 resulting key is superbsuperbsuperbsuperbsuperbsuperbsuperbsuperb. The value of index of coincidence is 0.06655165912518853.
+
+The right range of key is 6. The right key is superb.
+
+
+
+~~~ 143 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 16 was deleted
+
+minimal index of coincidence by the first method:0.06534147869674185
+the range of minimal delta:32
+
+The resulting key is stopstopstopstopstopstopstopstop
+
+Now printing deleted ranges:
+For range 2 resulting key is st. The value of index of coincidence is 0.05501760452071726.
+For range 4 resulting key is stop. The value of index of coincidence is 0.06648960464603589.
+For range 16 resulting key is stopstopstopstop. The value of index of coincidence is 0.06591812362903693.
+
+The right range of key is 4. The right key is stop.
+
+
+
+~~~ 144 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06728461975625671
+the range of minimal delta:4
+
+The resulting key is tray
+
+Now printing deleted ranges:
+For range 2 resulting key is tr. The value of index of coincidence is 0.05338010229230994.
+
+The right range of key is 4. The right key is tray.
+
+
+
+~~~ 145 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0689923469387755
+the range of minimal delta:48
+
+The resulting key is placidplacidplacidplacidplacidplacidplacidplacid
+
+Now printing deleted ranges:
+For range 2 resulting key is pc. The value of index of coincidence is 0.04868127200370061.
+For range 3 resulting key is cid. The value of index of coincidence is 0.05513921116272142.
+For range 6 resulting key is placid. The value of index of coincidence is 0.07078964934806926.
+
+The right range of key is 6. The right key is placid.
+
+
+
+~~~ 146 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.06596180290297933
+the range of minimal delta:75
+
+The resulting key is bathebathebathebathebathebathebathebathebathebathebathebathebathebathebathe
+
+Now printing deleted ranges:
+For range 2 resulting key is ea. The value of index of coincidence is 0.04431172434415069.
+For range 5 resulting key is bathe. The value of index of coincidence is 0.06730103770960438.
+For range 25 resulting key is bathebathebathebathebathe. The value of index of coincidence is 0.06640422351772585.
+
+The right range of key is 5. The right key is bathe.
+
+
+
+~~~ 147 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.0661985031115345
+the range of minimal delta:42
+
+The resulting key is healthyhealthyhealthyhealthyhealthyhealthy
+
+Now printing deleted ranges:
+For range 2 resulting key is hl. The value of index of coincidence is 0.04312214372991734.
+For range 7 resulting key is healthy. The value of index of coincidence is 0.06723342474631865.
+
+The right range of key is 7. The right key is healthy.
+
+
+
+~~~ 148 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 28 was deleted
+
+minimal index of coincidence by the first method:0.06702600433250584
+the range of minimal delta:68
+
+The resulting key is deaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddeaddead
+
+Now printing deleted ranges:
+For range 2 resulting key is de. The value of index of coincidence is 0.05331932999813038.
+For range 4 resulting key is dead. The value of index of coincidence is 0.06921204418295633.
+For range 28 resulting key is deaddeaddeaddeaddeaddeaddead. The value of index of coincidence is 0.06781603450945345.
+
+The right range of key is 4. The right key is dead.
+
+
+
+~~~ 149 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06839017436759408
+the range of minimal delta:8
+
+The resulting key is exciting
+
+Now printing deleted ranges:
+For range 2 resulting key is ni. The value of index of coincidence is 0.0467307829249722.
+For range 4 resulting key is exni. The value of index of coincidence is 0.05604142732962811.
+
+The right range of key is 8. The right key is exciting.
+
+
+
+~~~ 150 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06661747343565524
+the range of minimal delta:44
+
+The resulting key is postpostpostpostpostpostpostpostpostpostpost
+
+Now printing deleted ranges:
+For range 2 resulting key is pt. The value of index of coincidence is 0.04988948906495617.
+For range 4 resulting key is post. The value of index of coincidence is 0.06789805722732553.
+
+The right range of key is 4. The right key is post.
+
+
+
+~~~ 151 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 14 was deleted
+
+minimal index of coincidence by the first method:0.06554674975727609
+the range of minimal delta:63
+
+The resulting key is cynicalcynicalcynicalcynicalcynicalcynicolcynicalcynicalcynical
+
+Now printing deleted ranges:
+For range 2 resulting key is cc. The value of index of coincidence is 0.042934340579810035.
+For range 7 resulting key is cynical. The value of index of coincidence is 0.06492495473251722.
+For range 14 resulting key is cynicalcynical. The value of index of coincidence is 0.06524157550752807.
+
+The right range of key is 7. The right key is cynical.
+
+
+
+~~~ 152 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 11 was deleted
+
+minimal index of coincidence by the first method:0.06705439146455477
+the range of minimal delta:44
+
+The resulting key is outstandingoutstandingoutstandingoutstanding
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.04123872027134726.
+For range 11 resulting key is outstanding. The value of index of coincidence is 0.06830095848212624.
+
+The right range of key is 11. The right key is outstanding.
+
+
+
+~~~ 153 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06680891417733523
+the range of minimal delta:30
+
+The resulting key is acridacridacridacridacridacrid
+
+Now printing deleted ranges:
+For range 2 resulting key is dr. The value of index of coincidence is 0.04285115035912662.
+For range 5 resulting key is acrid. The value of index of coincidence is 0.06784419801094725.
+
+The right range of key is 5. The right key is acrid.
+
+
+
+~~~ 154 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06624261247548918
+the range of minimal delta:36
+
+The resulting key is plugplugplugplugplugplugplugplugplug
+
+Now printing deleted ranges:
+For range 2 resulting key is ul. The value of index of coincidence is 0.05040664415190571.
+For range 4 resulting key is plug. The value of index of coincidence is 0.06676668046167288.
+
+The right range of key is 4. The right key is plug.
+
+
+
+~~~ 155 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06554904132195513
+the range of minimal delta:30
+
+The resulting key is desiredesiredesiredesiredesire
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.05241277365129007.
+For range 6 resulting key is desire. The value of index of coincidence is 0.06527964529920334.
+
+The right range of key is 6. The right key is desire.
+
+
+
+~~~ 156 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06823952470293934
+the range of minimal delta:60
+
+The resulting key is hughughughughughughughughughughughughughughughughughughughug
+
+Now printing deleted ranges:
+For range 2 resulting key is ug. The value of index of coincidence is 0.050688616222456045.
+For range 3 resulting key is hug. The value of index of coincidence is 0.06962578488550385.
+
+The right range of key is 3. The right key is hug.
+
+
+
+~~~ 157 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.06637104966914689
+the range of minimal delta:55
+
+The resulting key is printprintprintprintprintprintprintprintprintprintprint
+
+Now printing deleted ranges:
+For range 2 resulting key is tn. The value of index of coincidence is 0.043427883740781686.
+For range 5 resulting key is print. The value of index of coincidence is 0.06820424111829311.
+For range 30 resulting key is printprintprintprintprintprint. The value of index of coincidence is 0.06713512928702804.
+
+The right range of key is 5. The right key is print.
+
+
+
+~~~ 158 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 12 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06513882303355988
+the range of minimal delta:60
+
+The resulting key is deepdeepdeepdeepdeepdeepdeepdeepdeepdeepdeepdeepdeppdeepdeep
+
+Now printing deleted ranges:
+For range 2 resulting key is ep. The value of index of coincidence is 0.0518618511940004.
+For range 4 resulting key is deep. The value of index of coincidence is 0.06333634633982921.
+For range 12 resulting key is deepdeepdeep. The value of index of coincidence is 0.06451714855364578.
+For range 36 resulting key is deepdeepdeepdeepdeepdeepdeepdtepdeep. The value of index of coincidence is 0.06485958270728234.
+
+The right range of key is 4. The right key is deep.
+
+
+
+~~~ 159 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06541754491618991
+the range of minimal delta:30
+
+The resulting key is checkcheckcheckcheckcheckcheck
+
+Now printing deleted ranges:
+For range 2 resulting key is cc. The value of index of coincidence is 0.04274375781859745.
+For range 5 resulting key is check. The value of index of coincidence is 0.06515033707189158.
+
+The right range of key is 5. The right key is check.
+
+
+
+~~~ 160 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06398899985526124
+the range of minimal delta:50
+
+The resulting key is shareshareshpreshareshareshareshapeshareshareshare
+
+Now printing deleted ranges:
+For range 2 resulting key is re. The value of index of coincidence is 0.04261459285267664.
+For range 5 resulting key is share. The value of index of coincidence is 0.06301045893566116.
+
+The right range of key is 5. The right key is share.
+
+
+
+~~~ 161 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06553278688524589
+the range of minimal delta:40
+
+The resulting key is abnormalabnormalabnormalabnormalabnormal
+
+Now printing deleted ranges:
+For range 2 resulting key is am. The value of index of coincidence is 0.048823276267835766.
+For range 8 resulting key is abnormal. The value of index of coincidence is 0.06497789042277825.
+
+The right range of key is 8. The right key is abnormal.
+
+
+
+~~~ 162 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06552189556828762
+the range of minimal delta:12
+
+The resulting key is lovelovelove
+
+Now printing deleted ranges:
+For range 2 resulting key is ve. The value of index of coincidence is 0.0522798918542443.
+For range 4 resulting key is love. The value of index of coincidence is 0.0652680050181984.
+
+The right range of key is 4. The right key is love.
+
+
+
+~~~ 163 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 14 was deleted
+
+minimal index of coincidence by the first method:0.06553021208483394
+the range of minimal delta:70
+
+The resulting key is brotherbrotherbrotherbrotherbrotherbrotherbrotherbrotherbrotherbrother
+
+Now printing deleted ranges:
+For range 2 resulting key is re. The value of index of coincidence is 0.04173045437371434.
+For range 7 resulting key is brother. The value of index of coincidence is 0.06609658526167066.
+For range 14 resulting key is brotherbrother. The value of index of coincidence is 0.06578675485558075.
+
+The right range of key is 7. The right key is brother.
+
+
+
+~~~ 164 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06552596648415464
+the range of minimal delta:28
+
+The resulting key is massmassmassmassmasswassmass
+
+Now printing deleted ranges:
+For range 2 resulting key is sa. The value of index of coincidence is 0.049209694415173866.
+For range 4 resulting key is mass. The value of index of coincidence is 0.0642767045205335.
+For range 8 resulting key is massmass. The value of index of coincidence is 0.06529961535866118.
+
+The right range of key is 4. The right key is mass.
+
+
+
+~~~ 1 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06541273091454809
+the range of minimal delta:14
+
+The resulting key is cynicalcynical
+
+Now printing deleted ranges:
+For range 2 resulting key is cc. The value of index of coincidence is 0.04302607371383444.
+For range 7 resulting key is cynical. The value of index of coincidence is 0.06594444006891488.
+
+The right range of key is 7. The right key is cynical.
+
+
+
+~~~ 2 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07045839677727633
+the range of minimal delta:5
+
+The resulting key is share
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04508501812085469.
+
+The right range of key is 5. The right key is share.
+
+
+
+~~~ 3 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06558246558246558
+the range of minimal delta:66
+
+The resulting key is untidyuntidyuntidyuntidyuntidyuntidyuntidyuntieyuntidyuntidyuntidy
+
+Now printing deleted ranges:
+For range 2 resulting key is un. The value of index of coincidence is 0.04750717719983251.
+For range 6 resulting key is untidy. The value of index of coincidence is 0.06630193574388231.
+
+The right range of key is 6. The right key is untidy.
+
+
+
+~~~ 4 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.0638967508207857
+the range of minimal delta:11
+
+The resulting key is responsible
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.041625822857494416.
+
+The right range of key is 11. The right key is responsible.
+
+
+
+~~~ 5 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 9 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.06553933226407094
+the range of minimal delta:63
+
+The resulting key is artartartartartartartartartartartartartartartartartartartartart
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04448201407648429.
+For range 3 resulting key is art. The value of index of coincidence is 0.06514817961228903.
+For range 9 resulting key is artartart. The value of index of coincidence is 0.0656485855520072.
+For range 30 resulting key is artartartartartartartartartart. The value of index of coincidence is 0.0654694499121123.
+
+The right range of key is 3. The right key is art.
+
+
+
+~~~ 6 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06522533373481883
+the range of minimal delta:30
+
+The resulting key is cooingcooingcooingcooingcooing
+
+Now printing deleted ranges:
+For range 2 resulting key is co. The value of index of coincidence is 0.046217636334370565.
+For range 6 resulting key is cooing. The value of index of coincidence is 0.06487939297269925.
+
+The right range of key is 6. The right key is cooing.
+
+
+
+~~~ 7 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06629212106734775
+the range of minimal delta:35
+
+The resulting key is mixedmixedmixedmixedmixedmixedmixed
+
+Now printing deleted ranges:
+For range 2 resulting key is ii. The value of index of coincidence is 0.043959112826720576.
+For range 5 resulting key is mixed. The value of index of coincidence is 0.06737657734999698.
+
+The right range of key is 5. The right key is mixed.
+
+
+
+~~~ 8 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.0674242279071253
+the range of minimal delta:35
+
+The resulting key is niftyniftyniftyniftyniftyniftynifty
+
+Now printing deleted ranges:
+For range 2 resulting key is yy. The value of index of coincidence is 0.04413967880595343.
+For range 5 resulting key is nifty. The value of index of coincidence is 0.06890708145462063.
+
+The right range of key is 5. The right key is nifty.
+
+
+
+~~~ 9 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06557463153722781
+the range of minimal delta:27
+
+The resulting key is hophophophophophophophophop
+
+Now printing deleted ranges:
+For range 2 resulting key is po. The value of index of coincidence is 0.04715299322114787.
+For range 3 resulting key is hop. The value of index of coincidence is 0.06630246228470424.
+For range 9 resulting key is hophophop. The value of index of coincidence is 0.06603251147234969.
+
+The right range of key is 3. The right key is hop.
+
+
+
+~~~ 10 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06539278531925591
+the range of minimal delta:48
+
+The resulting key is boreboreboreboreboreboreboreboreboreboreborebore
+
+Now printing deleted ranges:
+For range 2 resulting key is be. The value of index of coincidence is 0.053696664632500654.
+For range 4 resulting key is bore. The value of index of coincidence is 0.06638729710807297.
+For range 8 resulting key is borebore. The value of index of coincidence is 0.06608636441529496.
+
+The right range of key is 4. The right key is bore.
+
+
+
+~~~ 11 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 28 was deleted
+
+ 52 was deleted
+
+minimal index of coincidence by the first method:0.06545269665066149
+the range of minimal delta:56
+
+The resulting key is lacelacelacelacelacelacelacelacelacelacelacelacelacelace
+
+Now printing deleted ranges:
+For range 2 resulting key is ce. The value of index of coincidence is 0.05228535690397615.
+For range 4 resulting key is lace. The value of index of coincidence is 0.06618063859079618.
+For range 28 resulting key is lacelacelacelacelacelacelace. The value of index of coincidence is 0.06509269877268443.
+For range 52 resulting key is lacelacelacelacelacelacelacelacelacelacelacelacelace. The value of index of coincidence is 0.06569119955674577.
+
+The right range of key is 4. The right key is lace.
+
+
+
+~~~ 12 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06541201202335822
+the range of minimal delta:6
+
+The resulting key is pumped
+
+Now printing deleted ranges:
+For range 2 resulting key is eu. The value of index of coincidence is 0.046276560712740764.
+For range 3 resulting key is pud. The value of index of coincidence is 0.055758921709781334.
+
+The right range of key is 6. The right key is pumped.
+
+
+
+~~~ 13 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06549606054323036
+the range of minimal delta:24
+
+The resulting key is mittenmittenmittenmitten
+
+Now printing deleted ranges:
+For range 2 resulting key is ti. The value of index of coincidence is 0.04670697968723217.
+For range 6 resulting key is mitten. The value of index of coincidence is 0.06500417325354566.
+
+The right range of key is 6. The right key is mitten.
+
+
+
+~~~ 14 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06565397496915212
+the range of minimal delta:40
+
+The resulting key is multiplymultiplymultiplymultiplymultiply
+
+Now printing deleted ranges:
+For range 2 resulting key is lt. The value of index of coincidence is 0.04746841036255936.
+For range 4 resulting key is mply. The value of index of coincidence is 0.055093841237282885.
+For range 8 resulting key is multiply. The value of index of coincidence is 0.0645547010631318.
+
+The right range of key is 8. The right key is multiply.
+
+
+
+~~~ 15 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.0656975517479719
+the range of minimal delta:70
+
+The resulting key is tramptramptramptramptramptramptramptramptramptramptramptramptramptramp
+
+Now printing deleted ranges:
+For range 2 resulting key is at. The value of index of coincidence is 0.041936556923396165.
+For range 5 resulting key is tramp. The value of index of coincidence is 0.06386911365204706.
+For range 35 resulting key is tramptramptramptramptramptramptramp. The value of index of coincidence is 0.06445903474952604.
+
+The right range of key is 5. The right key is tramp.
+
+
+
+~~~ 16 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.0655475788702113
+the range of minimal delta:28
+
+The resulting key is damageddamageddamageddamaged
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04429294789057561.
+For range 7 resulting key is damaged. The value of index of coincidence is 0.06639668246509348.
+
+The right range of key is 7. The right key is damaged.
+
+
+
+~~~ 17 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06549197415051072
+the range of minimal delta:60
+
+The resulting key is traintraintraintraintraintraintraintraintraintraintraintrain
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.043018475866876224.
+For range 5 resulting key is train. The value of index of coincidence is 0.06636615880269947.
+For range 20 resulting key is traintraintraintrain. The value of index of coincidence is 0.06579808847810739.
+
+The right range of key is 5. The right key is train.
+
+
+
+~~~ 18 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 12 was deleted
+
+ 21 was deleted
+
+minimal index of coincidence by the first method:0.06547117023055679
+the range of minimal delta:39
+
+The resulting key is actactactactactactactactactactactactact
+
+Now printing deleted ranges:
+For range 2 resulting key is at. The value of index of coincidence is 0.04472863998416861.
+For range 3 resulting key is act. The value of index of coincidence is 0.06458441292442202.
+For range 12 resulting key is actactactact. The value of index of coincidence is 0.06498319504339452.
+For range 21 resulting key is actactactactactactact. The value of index of coincidence is 0.06522931327475875.
+
+The right range of key is 3. The right key is act.
+
+
+
+~~~ 19 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06521940600554138
+the range of minimal delta:3
+
+The resulting key is nut
+
+Now printing deleted ranges:
+For range 2 resulting key is nu. The value of index of coincidence is 0.04617658886112175.
+
+The right range of key is 3. The right key is nut.
+
+
+
+~~~ 20 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.0655681464504994
+the range of minimal delta:72
+
+The resulting key is baitbaitbaitbaitbaitbaitbaitbaitbaitbaitbaidbaitbaitbaitbaitbaitbaitbait
+
+Now printing deleted ranges:
+For range 2 resulting key is ba. The value of index of coincidence is 0.051041763514756686.
+For range 4 resulting key is bait. The value of index of coincidence is 0.06501151329950106.
+For range 36 resulting key is baitbaitbaitbaitbaitbaitbaitbaitbait. The value of index of coincidence is 0.06526015842922357.
+
+The right range of key is 4. The right key is bait.
+
+
+
+~~~ 21 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06716591865845596
+the range of minimal delta:36
+
+The resulting key is sleepysleepysleepysleepysleepysleepy
+
+Now printing deleted ranges:
+For range 2 resulting key is pl. The value of index of coincidence is 0.04903674946150172.
+For range 6 resulting key is sleepy. The value of index of coincidence is 0.06837214476727833.
+
+The right range of key is 6. The right key is sleepy.
+
+
+
+~~~ 22 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 12 was deleted
+
+minimal index of coincidence by the first method:0.06548194156889808
+the range of minimal delta:36
+
+The resulting key is hammerhammerhammerhammerhammerhammer
+
+Now printing deleted ranges:
+For range 2 resulting key is ma. The value of index of coincidence is 0.04466003504923283.
+For range 6 resulting key is hammer. The value of index of coincidence is 0.0658824866462098.
+For range 12 resulting key is hammerhammer. The value of index of coincidence is 0.0654021417179312.
+
+The right range of key is 6. The right key is hammer.
+
+
+
+~~~ 23 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06544804095279844
+the range of minimal delta:9
+
+The resulting key is voiceless
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.042348200396252325.
+
+The right range of key is 9. The right key is voiceless.
+
+
+
+~~~ 24 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06572206480621505
+the range of minimal delta:8
+
+The resulting key is aberrant
+
+Now printing deleted ranges:
+For range 2 resulting key is eb. The value of index of coincidence is 0.04371855946276834.
+
+The right range of key is 8. The right key is aberrant.
+
+
+
+~~~ 25 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06549178232753111
+the range of minimal delta:15
+
+The resulting key is hurryhurryhurry
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04584190871605741.
+For range 5 resulting key is hurry. The value of index of coincidence is 0.06561769322863002.
+
+The right range of key is 5. The right key is hurry.
+
+
+
+~~~ 26 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.06547998547998546
+the range of minimal delta:65
+
+The resulting key is niftyniftyniftyniftyniftynifsyniftyniftyniftyniftyniftyniftynifty
+
+Now printing deleted ranges:
+For range 2 resulting key is ty. The value of index of coincidence is 0.04445023630803448.
+For range 5 resulting key is nifty. The value of index of coincidence is 0.06511308281141268.
+For range 10 resulting key is niftynifty. The value of index of coincidence is 0.06529637377963737.
+For range 35 resulting key is niftyniftyniftyniftyniftyniftynifty. The value of index of coincidence is 0.06566218960004506.
+
+The right range of key is 5. The right key is nifty.
+
+
+
+~~~ 27 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 50 was deleted
+
+minimal index of coincidence by the first method:0.06551263160142652
+the range of minimal delta:55
+
+The resulting key is booksbooksbooksbooksbooksbooksbooksbooksbooksbooksbooks
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.04869046664727488.
+For range 5 resulting key is books. The value of index of coincidence is 0.06633103930499082.
+For range 50 resulting key is booksbooksbooksbooksbooksbooksbooksbooksbooksbooks. The value of index of coincidence is 0.0651479953683601.
+
+The right range of key is 5. The right key is books.
+
+
+
+~~~ 28 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 39 was deleted
+
+minimal index of coincidence by the first method:0.0656598303657127
+the range of minimal delta:78
+
+The resulting key is artartartartartartartartartartartartartartartartartartartartartartartartartart
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04527770462774218.
+For range 3 resulting key is art. The value of index of coincidence is 0.0669349822545827.
+For range 39 resulting key is artartartartartartartartartartartartart. The value of index of coincidence is 0.06634970599164972.
+
+The right range of key is 3. The right key is art.
+
+
+
+~~~ 29 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.0651127819548872
+the range of minimal delta:35
+
+The resulting key is earthearthearthearthearthearthearth
+
+Now printing deleted ranges:
+For range 2 resulting key is he. The value of index of coincidence is 0.04270760546411168.
+For range 5 resulting key is earth. The value of index of coincidence is 0.06432828492801665.
+
+The right range of key is 5. The right key is earth.
+
+
+
+~~~ 30 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 21 was deleted
+
+minimal index of coincidence by the first method:0.06553891121666057
+the range of minimal delta:35
+
+The resulting key is welcomewelcomewelcomewelcomewelcome
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.041286828930622216.
+For range 7 resulting key is welcome. The value of index of coincidence is 0.06482374720611052.
+For range 21 resulting key is welcomewelcomewelcome. The value of index of coincidence is 0.06533888444249054.
+
+The right range of key is 7. The right key is welcome.
+
+
+
+~~~ 31 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06553938553938553
+the range of minimal delta:65
+
+The resulting key is briefbriefbriefbriefbriefbriefbriefbriefbriefbriefbriefbriefbrief
+
+Now printing deleted ranges:
+For range 2 resulting key is fe. The value of index of coincidence is 0.043135138186256874.
+For range 5 resulting key is brief. The value of index of coincidence is 0.06682888130425954.
+For range 10 resulting key is briefbrief. The value of index of coincidence is 0.06602398599395269.
+For range 20 resulting key is briefbriefbriefbrief. The value of index of coincidence is 0.06563155770782889.
+
+The right range of key is 5. The right key is brief.
+
+
+
+~~~ 32 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 21 was deleted
+
+minimal index of coincidence by the first method:0.06605809891524174
+the range of minimal delta:70
+
+The resulting key is tedioustedioustedioustedioustedioustedioustedioustedioustedioustedious
+
+Now printing deleted ranges:
+For range 2 resulting key is ie. The value of index of coincidence is 0.043158869624310654.
+For range 7 resulting key is tedious. The value of index of coincidence is 0.0674788870648366.
+For range 21 resulting key is tedioustedioustedious. The value of index of coincidence is 0.06652582309592234.
+
+The right range of key is 7. The right key is tedious.
+
+
+
+~~~ 33 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06622026358767032
+the range of minimal delta:54
+
+The resulting key is streamstreamstreamstreamstreamstreamstreamstreamstream
+
+Now printing deleted ranges:
+For range 2 resulting key is rt. The value of index of coincidence is 0.04618504601671474.
+For range 6 resulting key is stream. The value of index of coincidence is 0.06421859434705682.
+
+The right range of key is 6. The right key is stream.
+
+
+
+~~~ 34 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 16 was deleted
+
+ 36 was deleted
+
+ 48 was deleted
+
+minimal index of coincidence by the first method:0.06554834054834056
+the range of minimal delta:72
+
+The resulting key is markmarkmarkmarkmarkmarkmagkmarkmarkmarkmarkmarkmarkmarkmarkmarkmarkmark
+
+Now printing deleted ranges:
+For range 2 resulting key is ma. The value of index of coincidence is 0.052095418280471914.
+For range 4 resulting key is mark. The value of index of coincidence is 0.0679879827363937.
+For range 16 resulting key is markmarkmarkmark. The value of index of coincidence is 0.06705537160257725.
+For range 36 resulting key is markmarkmarkmarkmarkmarkmarkmarkmark. The value of index of coincidence is 0.06624920499600806.
+For range 48 resulting key is markmarkmarkmarkmarkmarkmarkmarkmarkmarkmarkmark. The value of index of coincidence is 0.06521570287524785.
+
+The right range of key is 4. The right key is mark.
+
+
+
+~~~ 35 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06733021918792668
+the range of minimal delta:55
+
+The resulting key is basinbasinbasinbasinbasinbasinbasinbasinbasinbasinbasin
+
+Now printing deleted ranges:
+For range 2 resulting key is bb. The value of index of coincidence is 0.04298856203434888.
+For range 5 resulting key is basin. The value of index of coincidence is 0.06844119516946216.
+
+The right range of key is 5. The right key is basin.
+
+
+
+~~~ 36 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 18 was deleted
+
+ 21 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.06558326754165188
+the range of minimal delta:57
+
+The resulting key is hughughughughughughughughughughughughughughughughughughug
+
+Now printing deleted ranges:
+For range 2 resulting key is hu. The value of index of coincidence is 0.04912862781295799.
+For range 3 resulting key is hug. The value of index of coincidence is 0.06674904383642248.
+For range 18 resulting key is hughughughughughug. The value of index of coincidence is 0.06620922638246737.
+For range 21 resulting key is hughughughughughughug. The value of index of coincidence is 0.06578028115140915.
+For range 30 resulting key is hughughughughughughughughughug. The value of index of coincidence is 0.06561832998963636.
+
+The right range of key is 3. The right key is hug.
+
+
+
+~~~ 37 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.07009008178072927
+the range of minimal delta:6
+
+The resulting key is smooth
+
+Now printing deleted ranges:
+For range 2 resulting key is sh. The value of index of coincidence is 0.048084412470023985.
+For range 3 resulting key is smh. The value of index of coincidence is 0.05714516022236232.
+
+The right range of key is 6. The right key is smooth.
+
+
+
+~~~ 38 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06572568105374337
+the range of minimal delta:21
+
+The resulting key is endendendendendendend
+
+Now printing deleted ranges:
+For range 2 resulting key is dd. The value of index of coincidence is 0.04666021898095915.
+For range 3 resulting key is end. The value of index of coincidence is 0.06605412814404502.
+
+The right range of key is 3. The right key is end.
+
+
+
+~~~ 39 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06627414140612252
+the range of minimal delta:42
+
+The resulting key is betterbetterbetterbetterbetterbetterbetter
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04712689753734074.
+For range 3 resulting key is tet. The value of index of coincidence is 0.05504403401177394.
+For range 6 resulting key is better. The value of index of coincidence is 0.06680991066353949.
+
+The right range of key is 6. The right key is better.
+
+
+
+~~~ 40 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06669928025191182
+the range of minimal delta:60
+
+The resulting key is bewilderedbewilderedbewilderedbewilderedbewilderedbewildered
+
+Now printing deleted ranges:
+For range 2 resulting key is ed. The value of index of coincidence is 0.04692542392771226.
+For range 5 resulting key is dewil. The value of index of coincidence is 0.055536970174959864.
+For range 10 resulting key is bewildered. The value of index of coincidence is 0.06814329078911899.
+
+The right range of key is 10. The right key is bewildered.
+
+
+
+~~~ 41 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06502693043390716
+the range of minimal delta:56
+
+The resulting key is carelesscarelesscarelesscarelesscarelesscarelesscareless
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.04591162075956559.
+For range 8 resulting key is careless. The value of index of coincidence is 0.0637890493059822.
+
+The right range of key is 8. The right key is careless.
+
+
+
+~~~ 42 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06650308582655307
+the range of minimal delta:55
+
+The resulting key is legallegallegallegallegallegallegallegallegallegallegal
+
+Now printing deleted ranges:
+For range 2 resulting key is ll. The value of index of coincidence is 0.04704545156767947.
+For range 5 resulting key is legal. The value of index of coincidence is 0.0678956069967066.
+
+The right range of key is 5. The right key is legal.
+
+
+
+~~~ 43 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 18 was deleted
+
+ 42 was deleted
+
+minimal index of coincidence by the first method:0.06552990237200765
+the range of minimal delta:60
+
+The resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.0668568869955078.
+For range 6 resulting key is aaaaaa. The value of index of coincidence is 0.0663493335199799.
+For range 18 resulting key is aaaaaaaaaaaaaaaaaa. The value of index of coincidence is 0.06574219008812034.
+For range 42 resulting key is aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa. The value of index of coincidence is 0.06544469639707734.
+
+The right range of key is 11. The right key is second-hand.
+
+
+
+~~~ 44 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06691458910349464
+the range of minimal delta:21
+
+The resulting key is piquantpiquantpiquant
+
+Now printing deleted ranges:
+For range 2 resulting key is ep. The value of index of coincidence is 0.0421015072695745.
+For range 7 resulting key is piquant. The value of index of coincidence is 0.06768025261680602.
+
+The right range of key is 7. The right key is piquant.
+
+
+
+~~~ 45 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06634122095840389
+the range of minimal delta:20
+
+The resulting key is smartsmartsmartsmart
+
+Now printing deleted ranges:
+For range 2 resulting key is at. The value of index of coincidence is 0.04245723814885104.
+For range 5 resulting key is smart. The value of index of coincidence is 0.06776242398071179.
+
+The right range of key is 5. The right key is smart.
+
+
+
+~~~ 46 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06609371021135724
+the range of minimal delta:66
+
+The resulting key is rescuerescuerescuerescueriscuerescuerescuerescuerescuerescuerescue
+
+Now printing deleted ranges:
+For range 2 resulting key is re. The value of index of coincidence is 0.04797101486712106.
+For range 3 resulting key is rus. The value of index of coincidence is 0.05562247206831424.
+For range 6 resulting key is rescue. The value of index of coincidence is 0.06798044107030936.
+
+The right range of key is 6. The right key is rescue.
+
+
+
+~~~ 47 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06882402479886755
+the range of minimal delta:45
+
+The resulting key is spadespadespadespadespadespadespadespadespade
+
+Now printing deleted ranges:
+For range 2 resulting key is ed. The value of index of coincidence is 0.046295044452345877.
+For range 5 resulting key is spade. The value of index of coincidence is 0.0710749418425767.
+
+The right range of key is 5. The right key is spade.
+
+
+
+~~~ 48 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.0679423861791608
+the range of minimal delta:7
+
+The resulting key is womanly
+
+Now printing deleted ranges:
+For range 2 resulting key is al. The value of index of coincidence is 0.042345216777571436.
+
+The right range of key is 7. The right key is womanly.
+
+
+
+~~~ 49 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07022967389771918
+the range of minimal delta:7
+
+The resulting key is suspend
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04331399886869526.
+
+The right range of key is 7. The right key is suspend.
+
+
+
+~~~ 50 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06557888661268821
+the range of minimal delta:20
+
+The resulting key is mysteriousmysterious
+
+Now printing deleted ranges:
+For range 2 resulting key is is. The value of index of coincidence is 0.04304752353284242.
+For range 5 resulting key is mysts. The value of index of coincidence is 0.0517587357019596.
+For range 10 resulting key is mysterious. The value of index of coincidence is 0.0651578515785158.
+
+The right range of key is 10. The right key is mysterious.
+
+
+
+~~~ 51 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06906891695862931
+the range of minimal delta:6
+
+The resulting key is swanky
+
+Now printing deleted ranges:
+For range 2 resulting key is an. The value of index of coincidence is 0.04666144304583009.
+
+The right range of key is 6. The right key is swanky.
+
+
+
+~~~ 52 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06621632964837618
+the range of minimal delta:42
+
+The resulting key is scaredscaredscaredscaredscaredscaredscared
+
+Now printing deleted ranges:
+For range 2 resulting key is ec. The value of index of coincidence is 0.04901772013307614.
+For range 6 resulting key is scared. The value of index of coincidence is 0.06779555540694425.
+
+The right range of key is 6. The right key is scared.
+
+
+
+~~~ 53 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06496778415383068
+the range of minimal delta:56
+
+The resulting key is haltinghaltinghaltinghaltinghaltinghaltinghaltinghalting
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04153476781670497.
+For range 7 resulting key is halting. The value of index of coincidence is 0.06719233556091961.
+
+The right range of key is 7. The right key is halting.
+
+
+
+~~~ 54 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06664539032960085
+the range of minimal delta:60
+
+The resulting key is tabootabootabootabootabootabootabootabootabootabootabootaboo
+
+Now printing deleted ranges:
+For range 2 resulting key is oo. The value of index of coincidence is 0.0470947011395079.
+For range 5 resulting key is taboo. The value of index of coincidence is 0.0676267967528115.
+
+The right range of key is 5. The right key is taboo.
+
+
+
+~~~ 55 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06548052989512491
+the range of minimal delta:28
+
+The resulting key is sinksinksinksinksinksinksink
+
+Now printing deleted ranges:
+For range 2 resulting key is si. The value of index of coincidence is 0.04811808927951654.
+For range 4 resulting key is sink. The value of index of coincidence is 0.06605372099740059.
+
+The right range of key is 4. The right key is sink.
+
+
+
+~~~ 56 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06522281139858704
+the range of minimal delta:16
+
+The resulting key is exchangeexchange
+
+Now printing deleted ranges:
+For range 2 resulting key is gn. The value of index of coincidence is 0.04352602081665333.
+For range 4 resulting key is engh. The value of index of coincidence is 0.05311410256410257.
+For range 8 resulting key is exchange. The value of index of coincidence is 0.06462075552559716.
+
+The right range of key is 8. The right key is exchange.
+
+
+
+~~~ 57 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06531615171321055
+the range of minimal delta:72
+
+The resulting key is gazegazegazegazegazegazegazegazegazegazegazegazegazegazegazegazegazegaze
+
+Now printing deleted ranges:
+For range 2 resulting key is ge. The value of index of coincidence is 0.05483041776586083.
+For range 4 resulting key is gaze. The value of index of coincidence is 0.06667128013253037.
+For range 36 resulting key is gazegazegazegazegazegazegazegazegaze. The value of index of coincidence is 0.06520058649119229.
+
+The right range of key is 4. The right key is gaze.
+
+
+
+~~~ 58 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+ 32 was deleted
+
+ 64 was deleted
+
+minimal index of coincidence by the first method:0.06580341227400048
+the range of minimal delta:80
+
+The resulting key is volatilevolatilecolatilevolatilevolatilevolatilevolatilevdlatilevolatilevolatile
+
+Now printing deleted ranges:
+For range 2 resulting key is le. The value of index of coincidence is 0.04599578994637711.
+For range 4 resulting key is tile. The value of index of coincidence is 0.055368592733253626.
+For range 8 resulting key is volatile. The value of index of coincidence is 0.06752773394175285.
+For range 32 resulting key is volatilevolatilevolatilevolatile. The value of index of coincidence is 0.06634604423164614.
+For range 64 resulting key is volatilevolatilevolatilevolatilevolatilevolatilevolatilevolatile. The value of index of coincidence is 0.06596237474002646.
+
+The right range of key is 8. The right key is volatile.
+
+
+
+~~~ 59 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06567550746655226
+the range of minimal delta:36
+
+The resulting key is momentousmomentousmomentousmomentous
+
+Now printing deleted ranges:
+For range 2 resulting key is om. The value of index of coincidence is 0.04058072281426996.
+For range 9 resulting key is momentous. The value of index of coincidence is 0.06633712635297051.
+
+The right range of key is 9. The right key is momentous.
+
+
+
+~~~ 60 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.0648500881834215
+the range of minimal delta:45
+
+The resulting key is regretretretretregretretregregrearetretregreg
+
+Now printing deleted ranges:
+For range 2 resulting key is re. The value of index of coincidence is 0.05031979041368384.
+For range 3 resulting key is ret. The value of index of coincidence is 0.06427496314989085.
+
+The right range of key is 6. The right key is regret.
+
+
+
+~~~ 61 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0656320003657334
+the range of minimal delta:24
+
+The resulting key is cooingcooingcooingcooing
+
+Now printing deleted ranges:
+For range 2 resulting key is no. The value of index of coincidence is 0.04703276817236775.
+For range 6 resulting key is cooing. The value of index of coincidence is 0.06586293283857249.
+
+The right range of key is 6. The right key is cooing.
+
+
+
+~~~ 62 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06677385003588211
+the range of minimal delta:20
+
+The resulting key is checkcheckcheckcheck
+
+Now printing deleted ranges:
+For range 2 resulting key is cc. The value of index of coincidence is 0.04219983531933778.
+For range 5 resulting key is check. The value of index of coincidence is 0.06753043633001879.
+
+The right range of key is 5. The right key is check.
+
+
+
+~~~ 63 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06625514403292179
+the range of minimal delta:30
+
+The resulting key is lovelylovelylovelylovelylovely
+
+Now printing deleted ranges:
+For range 2 resulting key is ly. The value of index of coincidence is 0.05042456300282211.
+For range 6 resulting key is lovely. The value of index of coincidence is 0.06680301126882043.
+
+The right range of key is 6. The right key is lovely.
+
+
+
+~~~ 64 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06878603202132615
+the range of minimal delta:6
+
+The resulting key is liquid
+
+Now printing deleted ranges:
+For range 2 resulting key is ii. The value of index of coincidence is 0.0458571817934042.
+For range 3 resulting key is lid. The value of index of coincidence is 0.05974277236456955.
+
+The right range of key is 6. The right key is liquid.
+
+
+
+~~~ 65 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 13 was deleted
+
+minimal index of coincidence by the first method:0.06587240929730702
+the range of minimal delta:39
+
+The resulting key is scintillatingscintillatingscintillating
+
+Now printing deleted ranges:
+For range 2 resulting key is ta. The value of index of coincidence is 0.041425744742882596.
+For range 13 resulting key is scintillating. The value of index of coincidence is 0.06628247507292627.
+
+The right range of key is 13. The right key is scintillating.
+
+
+
+~~~ 66 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 11 was deleted
+
+ 33 was deleted
+
+minimal index of coincidence by the first method:0.06558421916861118
+the range of minimal delta:44
+
+The resulting key is incompetentincompetentincompetentincompetent
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.04271373146773323.
+For range 11 resulting key is incompetent. The value of index of coincidence is 0.06715189154741762.
+For range 33 resulting key is incompetentincompetentincompetent. The value of index of coincidence is 0.06596808826473897.
+
+The right range of key is 11. The right key is incompetent.
+
+
+
+~~~ 67 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06617573156203532
+the range of minimal delta:36
+
+The resulting key is veilveilveilveilveilveilveilveilveil
+
+Now printing deleted ranges:
+For range 2 resulting key is ve. The value of index of coincidence is 0.055634134842055635.
+For range 4 resulting key is veil. The value of index of coincidence is 0.06761176117611761.
+
+The right range of key is 4. The right key is veil.
+
+
+
+~~~ 68 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.06525228273127431
+the range of minimal delta:55
+
+The resulting key is crowdcrowdcrowdcrowdcrowdcrowdcrowdcrowdcrowdcrowdcrowd
+
+Now printing deleted ranges:
+For range 2 resulting key is dc. The value of index of coincidence is 0.04408293608552784.
+For range 5 resulting key is crowd. The value of index of coincidence is 0.06649935972922016.
+For range 25 resulting key is crowdcrowdcrowdcrowdcrowd. The value of index of coincidence is 0.06593073593073594.
+
+The right range of key is 5. The right key is crowd.
+
+
+
+~~~ 69 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.066054579093432
+the range of minimal delta:50
+
+The resulting key is decaydecaydecaydecaydecaydecaydecaydecaydecaydecay
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.041618397595066865.
+For range 5 resulting key is decay. The value of index of coincidence is 0.06751999067426938.
+For range 25 resulting key is decaydecaydecaydecaydecay. The value of index of coincidence is 0.06665375862442653.
+
+The right range of key is 5. The right key is decay.
+
+
+
+~~~ 70 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06734886387325414
+the range of minimal delta:60
+
+The resulting key is signsignsignsignsignsignsignsignsignsignsignsignsignsignsign
+
+Now printing deleted ranges:
+For range 2 resulting key is sn. The value of index of coincidence is 0.05158546049052341.
+For range 4 resulting key is sign. The value of index of coincidence is 0.06827076688354405.
+
+The right range of key is 4. The right key is sign.
+
+
+
+~~~ 71 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06572012190976195
+the range of minimal delta:36
+
+The resulting key is exclusiveexclusiveexclusiveexclusive
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04099911114525094.
+For range 9 resulting key is exclusive. The value of index of coincidence is 0.06609857580371536.
+
+The right range of key is 9. The right key is exclusive.
+
+
+
+~~~ 72 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.0655336904307643
+the range of minimal delta:12
+
+The resulting key is dockdockdock
+
+Now printing deleted ranges:
+For range 2 resulting key is co. The value of index of coincidence is 0.0529111609468597.
+For range 4 resulting key is dock. The value of index of coincidence is 0.06523058106646198.
+For range 8 resulting key is dockdock. The value of index of coincidence is 0.06559729694293592.
+
+The right range of key is 4. The right key is dock.
+
+
+
+~~~ 73 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06553752850922662
+the range of minimal delta:24
+
+The resulting key is toweringtoweringtowering
+
+Now printing deleted ranges:
+For range 2 resulting key is ri. The value of index of coincidence is 0.04270250637496214.
+For range 8 resulting key is towering. The value of index of coincidence is 0.06548071767071204.
+
+The right range of key is 8. The right key is towering.
+
+
+
+~~~ 74 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 15 was deleted
+
+minimal index of coincidence by the first method:0.06562154730658668
+the range of minimal delta:20
+
+The resulting key is touchtouchtouchtouch
+
+Now printing deleted ranges:
+For range 2 resulting key is ou. The value of index of coincidence is 0.04284235504260755.
+For range 5 resulting key is touch. The value of index of coincidence is 0.06631463146314631.
+For range 15 resulting key is touchtouchtouch. The value of index of coincidence is 0.06602000282331927.
+
+The right range of key is 5. The right key is touch.
+
+
+
+~~~ 75 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+ 12 was deleted
+
+ 30 was deleted
+
+minimal index of coincidence by the first method:0.06562041183223011
+the range of minimal delta:42
+
+The resulting key is borrowborrowborrowborrowborrowborrowborrow
+
+Now printing deleted ranges:
+For range 2 resulting key is ow. The value of index of coincidence is 0.04601595025033892.
+For range 3 resulting key is ror. The value of index of coincidence is 0.055000117348801926.
+For range 6 resulting key is borrow. The value of index of coincidence is 0.066257989668923.
+For range 12 resulting key is borrowborrow. The value of index of coincidence is 0.0659026408432731.
+For range 30 resulting key is borrowborrowborrowborrowborrow. The value of index of coincidence is 0.06569256248118038.
+
+The right range of key is 6. The right key is borrow.
+
+
+
+~~~ 76 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.06553809951965525
+the range of minimal delta:30
+
+The resulting key is sheepsheepsheepsheepsheepsheep
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.046219260940607756.
+For range 5 resulting key is sheep. The value of index of coincidence is 0.06465008726185437.
+For range 25 resulting key is sheepsheepsheepsheepsheep. The value of index of coincidence is 0.06525004445392796.
+
+The right range of key is 5. The right key is sheep.
+
+
+
+~~~ 77 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06481330924420357
+the range of minimal delta:30
+
+The resulting key is glassglassglassglassglassglass
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.0446070317941023.
+For range 5 resulting key is glass. The value of index of coincidence is 0.06398806530557512.
+
+The right range of key is 5. The right key is glass.
+
+
+
+~~~ 78 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06572288471022648
+the range of minimal delta:30
+
+The resulting key is nappynappynappynappynappynappy
+
+Now printing deleted ranges:
+For range 2 resulting key is pp. The value of index of coincidence is 0.045533364746819384.
+For range 5 resulting key is nappy. The value of index of coincidence is 0.06588032481967063.
+
+The right range of key is 5. The right key is nappy.
+
+
+
+~~~ 79 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06548304692948431
+the range of minimal delta:6
+
+The resulting key is prefer
+
+Now printing deleted ranges:
+For range 2 resulting key is er. The value of index of coincidence is 0.054732371851289735.
+
+The right range of key is 6. The right key is prefer.
+
+
+
+~~~ 80 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.0657626973416447
+the range of minimal delta:63
+
+The resulting key is agreeableagreeableagreeableagreeableagreeableagreeableagreeable
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04377893359683089.
+For range 9 resulting key is agreeable. The value of index of coincidence is 0.06506320476908711.
+
+The right range of key is 9. The right key is agreeable.
+
+
+
+~~~ 81 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06557823129251698
+the range of minimal delta:48
+
+The resulting key is cheesecheesecheesecheesecheesecheesecheesecheese
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.04939324437030859.
+For range 3 resulting key is ese. The value of index of coincidence is 0.05518356278681685.
+For range 6 resulting key is cheese. The value of index of coincidence is 0.06508980785296575.
+For range 18 resulting key is cheesecheesecheese. The value of index of coincidence is 0.0656185919343814.
+
+The right range of key is 6. The right key is cheese.
+
+
+
+~~~ 82 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06409347458914837
+the range of minimal delta:24
+
+The resulting key is youthfulyouthfulyouthful
+
+Now printing deleted ranges:
+For range 2 resulting key is uf. The value of index of coincidence is 0.04473891916402648.
+For range 8 resulting key is youthful. The value of index of coincidence is 0.06332710277995905.
+
+The right range of key is 8. The right key is youthful.
+
+
+
+~~~ 83 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06592271741525473
+the range of minimal delta:36
+
+The resulting key is telephonetelephonetelephonetelephone
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04421478593051343.
+For range 9 resulting key is telephone. The value of index of coincidence is 0.06724709369805863.
+
+The right range of key is 9. The right key is telephone.
+
+
+
+~~~ 84 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06579918789221113
+the range of minimal delta:54
+
+The resulting key is eggnogeggnogeggnogeggnogeggnogeggnogeggnogeggnogeggnog
+
+Now printing deleted ranges:
+For range 2 resulting key is eg. The value of index of coincidence is 0.04970408548150325.
+For range 3 resulting key is egg. The value of index of coincidence is 0.055364375995268535.
+For range 6 resulting key is eggnog. The value of index of coincidence is 0.06681676539228283.
+
+The right range of key is 6. The right key is eggnog.
+
+
+
+~~~ 85 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06482674172669878
+the range of minimal delta:18
+
+The resulting key is unwrittenunwritten
+
+Now printing deleted ranges:
+For range 2 resulting key is tn. The value of index of coincidence is 0.04170194298951885.
+For range 9 resulting key is unwritten. The value of index of coincidence is 0.06407356363560743.
+
+The right range of key is 9. The right key is unwritten.
+
+
+
+~~~ 86 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+ 35 was deleted
+
+minimal index of coincidence by the first method:0.06552920267205978
+the range of minimal delta:70
+
+The resulting key is pausepausepausepausepausepausepausepausepausepausepausepausepausepause
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04407760201791491.
+For range 5 resulting key is pause. The value of index of coincidence is 0.06663680653779662.
+For range 20 resulting key is pausepausepausepause. The value of index of coincidence is 0.06608893888263966.
+For range 35 resulting key is pausepausepausepausepausepausepause. The value of index of coincidence is 0.06539220099899246.
+
+The right range of key is 5. The right key is pause.
+
+
+
+~~~ 87 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06562691583938042
+the range of minimal delta:7
+
+The resulting key is brother
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04246011559477944.
+
+The right range of key is 7. The right key is brother.
+
+
+
+~~~ 88 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06552183232487149
+the range of minimal delta:21
+
+The resulting key is haircuthaircuthaircut
+
+Now printing deleted ranges:
+For range 2 resulting key is hi. The value of index of coincidence is 0.04083852076552806.
+For range 7 resulting key is haircut. The value of index of coincidence is 0.06576055619964968.
+
+The right range of key is 7. The right key is haircut.
+
+
+
+~~~ 89 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06562667352141036
+the range of minimal delta:63
+
+The resulting key is overjoyedoverjoyedoverjoyedoverjoyedoverjoyedoverjoyedovtrjoyed
+
+Now printing deleted ranges:
+For range 2 resulting key is eo. The value of index of coincidence is 0.0417221123103253.
+For range 9 resulting key is overjoyed. The value of index of coincidence is 0.06524021949874816.
+
+The right range of key is 9. The right key is overjoyed.
+
+
+
+~~~ 90 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06546666666666667
+the range of minimal delta:50
+
+The resulting key is awareawareawareawareawareawareawareawareawareaware
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04750324447939881.
+For range 5 resulting key is aware. The value of index of coincidence is 0.06617523376045119.
+For range 20 resulting key is awareawareawareaware. The value of index of coincidence is 0.06590288615736502.
+
+The right range of key is 5. The right key is aware.
+
+
+
+~~~ 91 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06425717475426623
+the range of minimal delta:40
+
+The resulting key is graingraingraingraingraingraingraingrain
+
+Now printing deleted ranges:
+For range 2 resulting key is nr. The value of index of coincidence is 0.0412306189255716.
+For range 5 resulting key is grain. The value of index of coincidence is 0.06345809169760563.
+
+The right range of key is 5. The right key is grain.
+
+
+
+~~~ 92 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06713942172677904
+the range of minimal delta:36
+
+The resulting key is spotspotspotspotspotspotspotspotspot
+
+Now printing deleted ranges:
+For range 2 resulting key is sp. The value of index of coincidence is 0.056722073411883275.
+For range 4 resulting key is spot. The value of index of coincidence is 0.06849898202055237.
+
+The right range of key is 4. The right key is spot.
+
+
+
+~~~ 93 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06754494953587407
+the range of minimal delta:60
+
+The resulting key is rottenrottenrottenrottenrottenrottenrottenrottenrottenrotten
+
+Now printing deleted ranges:
+For range 2 resulting key is en. The value of index of coincidence is 0.047603897380540536.
+For range 6 resulting key is rotten. The value of index of coincidence is 0.06864793017881467.
+
+The right range of key is 6. The right key is rotten.
+
+
+
+~~~ 94 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06847980265186557
+the range of minimal delta:50
+
+The resulting key is angryangryangryangryangryangryangryangryangryangry
+
+Now printing deleted ranges:
+For range 2 resulting key is nr. The value of index of coincidence is 0.045743832300135734.
+For range 5 resulting key is angry. The value of index of coincidence is 0.07004540791760654.
+
+The right range of key is 5. The right key is angry.
+
+
+
+~~~ 95 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06503983299797331
+the range of minimal delta:10
+
+The resulting key is sparkspark
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04181104017351197.
+For range 5 resulting key is spark. The value of index of coincidence is 0.0645968825133496.
+
+The right range of key is 5. The right key is spark.
+
+
+
+~~~ 96 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06995583679388308
+the range of minimal delta:6
+
+The resulting key is branch
+
+Now printing deleted ranges:
+For range 2 resulting key is br. The value of index of coincidence is 0.0485198101964569.
+
+The right range of key is 6. The right key is branch.
+
+
+
+~~~ 97 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06694201054788056
+the range of minimal delta:45
+
+The resulting key is unnaturalunnaturalunnaturalunnaturalunnatural
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.04353319359408787.
+For range 9 resulting key is unnatural. The value of index of coincidence is 0.06844271690648912.
+
+The right range of key is 9. The right key is unnatural.
+
+
+
+~~~ 98 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06864252517902773
+the range of minimal delta:7
+
+The resulting key is oatmeal
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04348202789460201.
+
+The right range of key is 7. The right key is oatmeal.
+
+
+
+~~~ 99 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07038257319282162
+the range of minimal delta:10
+
+The resulting key is invincible
+
+Now printing deleted ranges:
+For range 2 resulting key is ib. The value of index of coincidence is 0.045820746761688236.
+
+The right range of key is 10. The right key is invincible.
+
+
+
+~~~ 100 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.0674439578509346
+the range of minimal delta:56
+
+The resulting key is fastfastfastfastfastfastfastfastfastfastfastfastfastfast
+
+Now printing deleted ranges:
+For range 2 resulting key is ft. The value of index of coincidence is 0.05466152647420078.
+For range 4 resulting key is fast. The value of index of coincidence is 0.06955491283941515.
+
+The right range of key is 4. The right key is fast.
+
+
+
+~~~ 101 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06734778757237925
+the range of minimal delta:40
+
+The resulting key is rulerulerulerulerulerulerulerulerulerule
+
+Now printing deleted ranges:
+For range 2 resulting key is lu. The value of index of coincidence is 0.05151850172779332.
+For range 4 resulting key is rule. The value of index of coincidence is 0.06881940883788865.
+
+The right range of key is 4. The right key is rule.
+
+
+
+~~~ 102 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 14 was deleted
+
+ 21 was deleted
+
+minimal index of coincidence by the first method:0.0656138819164029
+the range of minimal delta:70
+
+The resulting key is paymentpaymentpaymentpaymentpaymentpaymentpaymentpaymentpaymentpayment
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.04222300862060087.
+For range 7 resulting key is payment. The value of index of coincidence is 0.06498750157112544.
+For range 14 resulting key is paymentpayment. The value of index of coincidence is 0.065268183414486.
+For range 21 resulting key is paymentpaymentpayment. The value of index of coincidence is 0.06536542473573959.
+
+The right range of key is 7. The right key is payment.
+
+
+
+~~~ 103 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+ 24 was deleted
+
+minimal index of coincidence by the first method:0.06555465618254702
+the range of minimal delta:52
+
+The resulting key is wormwormwormwormwogmwormwormwormwormwormwormwormworm
+
+Now printing deleted ranges:
+For range 2 resulting key is wo. The value of index of coincidence is 0.04855775243027421.
+For range 4 resulting key is worm. The value of index of coincidence is 0.0659267779002323.
+For range 8 resulting key is wormworm. The value of index of coincidence is 0.06571231362904617.
+For range 24 resulting key is wormwormwormwormwormworm. The value of index of coincidence is 0.06561063016638616.
+
+The right range of key is 4. The right key is worm.
+
+
+
+~~~ 104 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 32 was deleted
+
+ 48 was deleted
+
+minimal index of coincidence by the first method:0.06570649650234428
+the range of minimal delta:68
+
+The resulting key is fivefivefivefivefivefivefivtfivefivefivefivefivefivyfivefivefivefive
+
+Now printing deleted ranges:
+For range 2 resulting key is vi. The value of index of coincidence is 0.05384229203049976.
+For range 4 resulting key is five. The value of index of coincidence is 0.06748406487447614.
+For range 32 resulting key is fivefivefivefivefivefivefivefive. The value of index of coincidence is 0.0666927629684479.
+For range 48 resulting key is fivefivefivefivefivefivefivefivefivefivefivefive. The value of index of coincidence is 0.06609126984126984.
+
+The right range of key is 4. The right key is five.
+
+
+
+~~~ 105 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06574909683108608
+the range of minimal delta:36
+
+The resulting key is planesplanesplanesplanesplanesplanes
+
+Now printing deleted ranges:
+For range 2 resulting key is es. The value of index of coincidence is 0.04870205452877299.
+For range 6 resulting key is planes. The value of index of coincidence is 0.06747743397959088.
+For range 18 resulting key is planesplanesplanes. The value of index of coincidence is 0.06632037748753629.
+
+The right range of key is 6. The right key is planes.
+
+
+
+~~~ 106 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06707474680656234
+the range of minimal delta:35
+
+The resulting key is niftyniftyniftyniftyniftyniftynifty
+
+Now printing deleted ranges:
+For range 2 resulting key is yy. The value of index of coincidence is 0.043501038313134184.
+For range 5 resulting key is nifty. The value of index of coincidence is 0.068385394752493.
+
+The right range of key is 5. The right key is nifty.
+
+
+
+~~~ 107 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06966236093608895
+the range of minimal delta:6
+
+The resulting key is church
+
+Now printing deleted ranges:
+For range 2 resulting key is ch. The value of index of coincidence is 0.05343219170570145.
+
+The right range of key is 6. The right key is church.
+
+
+
+~~~ 108 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+ 28 was deleted
+
+minimal index of coincidence by the first method:0.06587216704863766
+the range of minimal delta:70
+
+The resulting key is warlikewarlikewarlikewarlikewarlikewarlikewarlikewarlikewarlikewarlike
+
+Now printing deleted ranges:
+For range 2 resulting key is le. The value of index of coincidence is 0.04207105862145974.
+For range 7 resulting key is warlike. The value of index of coincidence is 0.0669988378712813.
+For range 28 resulting key is warlikewarlikewarlikewarlike. The value of index of coincidence is 0.06607524726009087.
+
+The right range of key is 7. The right key is warlike.
+
+
+
+~~~ 109 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.07125568087788685
+the range of minimal delta:5
+
+The resulting key is grape
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04511123849122865.
+
+The right range of key is 5. The right key is grape.
+
+
+
+~~~ 110 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06737397623473575
+the range of minimal delta:30
+
+The resulting key is obtainobtainobtainobtainobtain
+
+Now printing deleted ranges:
+For range 2 resulting key is ia. The value of index of coincidence is 0.04787290346564933.
+For range 6 resulting key is obtain. The value of index of coincidence is 0.068553958664384.
+
+The right range of key is 6. The right key is obtain.
+
+
+
+~~~ 111 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06553957231040565
+the range of minimal delta:36
+
+The resulting key is centcentcentcentcentcentcentcentcent
+
+Now printing deleted ranges:
+For range 2 resulting key is ct. The value of index of coincidence is 0.05590809708552036.
+For range 4 resulting key is cent. The value of index of coincidence is 0.06524641474067656.
+
+The right range of key is 4. The right key is cent.
+
+
+
+~~~ 112 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.067790617194788
+the range of minimal delta:9
+
+The resulting key is abhorrent
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04151099343494523.
+
+The right range of key is 9. The right key is abhorrent.
+
+
+
+~~~ 113 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06821955969137597
+the range of minimal delta:5
+
+The resulting key is cable
+
+Now printing deleted ranges:
+For range 2 resulting key is aa. The value of index of coincidence is 0.045090451985150104.
+
+The right range of key is 5. The right key is cable.
+
+
+
+~~~ 114 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06977097167637891
+the range of minimal delta:5
+
+The resulting key is obese
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.0479751500053612.
+
+The right range of key is 5. The right key is obese.
+
+
+
+~~~ 115 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06678226258791042
+the range of minimal delta:56
+
+The resulting key is mammothmammothmammothmammothmammothmammothmammothmammoth
+
+Now printing deleted ranges:
+For range 2 resulting key is mm. The value of index of coincidence is 0.04485918501165863.
+For range 7 resulting key is mammoth. The value of index of coincidence is 0.06791067541259653.
+
+The right range of key is 7. The right key is mammoth.
+
+
+
+~~~ 116 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.06666388146167561
+the range of minimal delta:72
+
+The resulting key is cleverclevercleverclevercleverclevercleverclevercleverclevercleverclever
+
+Now printing deleted ranges:
+For range 2 resulting key is ev. The value of index of coincidence is 0.04969266801239375.
+For range 6 resulting key is clever. The value of index of coincidence is 0.06820764636856591.
+For range 18 resulting key is clevercleverclever. The value of index of coincidence is 0.06731023531579575.
+
+The right range of key is 6. The right key is clever.
+
+
+
+~~~ 117 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 11 was deleted
+
+minimal index of coincidence by the first method:0.0677781770271889
+the range of minimal delta:55
+
+The resulting key is adventurousadventurousadventurousadventurousadventurous
+
+Now printing deleted ranges:
+For range 2 resulting key is uu. The value of index of coincidence is 0.04086333999892738.
+For range 11 resulting key is adventurous. The value of index of coincidence is 0.06920787478742539.
+
+The right range of key is 11. The right key is adventurous.
+
+
+
+~~~ 118 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.071069161597461
+the range of minimal delta:6
+
+The resulting key is mellow
+
+Now printing deleted ranges:
+For range 2 resulting key is ll. The value of index of coincidence is 0.04920054065644576.
+For range 3 resulting key is lel. The value of index of coincidence is 0.05712750012285616.
+
+The right range of key is 6. The right key is mellow.
+
+
+
+~~~ 119 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06848384173965567
+the range of minimal delta:54
+
+The resulting key is fluffyfluffyfluffyfluffyfluffyfluffyfluffyfluffyfluffy
+
+Now printing deleted ranges:
+For range 2 resulting key is fy. The value of index of coincidence is 0.054814328978413214.
+For range 3 resulting key is ffy. The value of index of coincidence is 0.06102711356299273.
+
+The right range of key is 6. The right key is fluffy.
+
+
+
+~~~ 120 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.06583946078431374
+the range of minimal delta:80
+
+The resulting key is shelfshelfshelfshelfshelfshelfshelfshelfshelfshelfshelfshelfshelfshelfshelfshelf
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04463953797132236.
+For range 5 resulting key is shelf. The value of index of coincidence is 0.06740185389019267.
+For range 25 resulting key is shelfshelfshelfshelfshelf. The value of index of coincidence is 0.06666052757042.
+
+The right range of key is 5. The right key is shelf.
+
+
+
+~~~ 121 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06746709848213608
+the range of minimal delta:42
+
+The resulting key is switchswitchswitchswitchswitchswitchswitch
+
+Now printing deleted ranges:
+For range 2 resulting key is sw. The value of index of coincidence is 0.048074134309522634.
+For range 6 resulting key is switch. The value of index of coincidence is 0.0692853462381868.
+
+The right range of key is 6. The right key is switch.
+
+
+
+~~~ 122 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06556180138269692
+the range of minimal delta:35
+
+The resulting key is frontfrontfrontfrontfrontfrontfront
+
+Now printing deleted ranges:
+For range 2 resulting key is rf. The value of index of coincidence is 0.04141436402268925.
+For range 5 resulting key is front. The value of index of coincidence is 0.0662002818584149.
+
+The right range of key is 5. The right key is front.
+
+
+
+~~~ 123 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06889420969806985
+the range of minimal delta:8
+
+The resulting key is imminent
+
+Now printing deleted ranges:
+For range 2 resulting key is ni. The value of index of coincidence is 0.04873162211389111.
+
+The right range of key is 8. The right key is imminent.
+
+
+
+~~~ 124 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.07073735690335892
+the range of minimal delta:8
+
+The resulting key is seashore
+
+Now printing deleted ranges:
+For range 2 resulting key is se. The value of index of coincidence is 0.04903903725586252.
+For range 4 resulting key is sere. The value of index of coincidence is 0.055301342049224975.
+
+The right range of key is 8. The right key is seashore.
+
+
+
+~~~ 125 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06571403336109213
+the range of minimal delta:68
+
+The resulting key is twigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwigtwig
+
+Now printing deleted ranges:
+For range 2 resulting key is iw. The value of index of coincidence is 0.05411137072548111.
+For range 4 resulting key is twig. The value of index of coincidence is 0.06801512272740128.
+For range 36 resulting key is twigtwigtwigtwigtwigtwigtwigtwigtwig. The value of index of coincidence is 0.06655465921316972.
+
+The right range of key is 4. The right key is twig.
+
+
+
+~~~ 126 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06702733199228453
+the range of minimal delta:49
+
+The resulting key is limpinglimpinglimpinglimpinglimpinglimpinglimping
+
+Now printing deleted ranges:
+For range 2 resulting key is ii. The value of index of coincidence is 0.04163245524005017.
+For range 7 resulting key is limping. The value of index of coincidence is 0.06812719330772954.
+
+The right range of key is 7. The right key is limping.
+
+
+
+~~~ 127 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06693745294580397
+the range of minimal delta:11
+
+The resulting key is outstanding
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.041221993980795874.
+
+The right range of key is 11. The right key is outstanding.
+
+
+
+~~~ 128 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06730264760115505
+the range of minimal delta:35
+
+The resulting key is grouchygrouchygrouchygrouchygrouchy
+
+Now printing deleted ranges:
+For range 2 resulting key is cc. The value of index of coincidence is 0.04355401333417973.
+For range 7 resulting key is grouchy. The value of index of coincidence is 0.06864651764106586.
+
+The right range of key is 7. The right key is grouchy.
+
+
+
+~~~ 129 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06686211949369844
+the range of minimal delta:63
+
+The resulting key is licenselicdnwelicenselicenselicenselicenselicenselicenselicense
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.041827469014818736.
+For range 7 resulting key is license. The value of index of coincidence is 0.06805233184573427.
+
+The right range of key is 7. The right key is license.
+
+
+
+~~~ 130 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06677276971394619
+the range of minimal delta:72
+
+The resulting key is drabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrabdrab
+
+Now printing deleted ranges:
+For range 2 resulting key is ar. The value of index of coincidence is 0.05220383373465372.
+For range 4 resulting key is drab. The value of index of coincidence is 0.06869913054714906.
+For range 36 resulting key is drabdrabdrabdrabdrabdrabdrabdrabdrab. The value of index of coincidence is 0.0675523349436393.
+
+The right range of key is 4. The right key is drab.
+
+
+
+~~~ 131 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 8 was deleted
+
+minimal index of coincidence by the first method:0.06520705275870985
+the range of minimal delta:56
+
+The resulting key is doubtfuldoubtfuldoubtfuldoubtfuldoubtfuldoubtfuldoubtful
+
+Now printing deleted ranges:
+For range 2 resulting key is ub. The value of index of coincidence is 0.0459951949384643.
+For range 4 resulting key is doul. The value of index of coincidence is 0.053630344516967146.
+For range 8 resulting key is doubtful. The value of index of coincidence is 0.06468670736908264.
+
+The right range of key is 8. The right key is doubtful.
+
+
+
+~~~ 132 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 10 was deleted
+
+ 40 was deleted
+
+minimal index of coincidence by the first method:0.06538882219554487
+the range of minimal delta:70
+
+The resulting key is nauseatingnauseatimgnauseatingnauseatingnajseatingnauseatingnauseating
+
+Now printing deleted ranges:
+For range 2 resulting key is na. The value of index of coincidence is 0.04394103746174408.
+For range 10 resulting key is nauseating. The value of index of coincidence is 0.06347648659152741.
+For range 40 resulting key is nauseatingnauseatingnauseatingnauseating. The value of index of coincidence is 0.0650875492097068.
+
+The right range of key is 10. The right key is nauseating.
+
+
+
+~~~ 133 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+ 28 was deleted
+
+ 36 was deleted
+
+minimal index of coincidence by the first method:0.06558661075888085
+the range of minimal delta:44
+
+The resulting key is tarttarttarttarttarttarttarttarttarttarttart
+
+Now printing deleted ranges:
+For range 2 resulting key is tt. The value of index of coincidence is 0.049576795934571205.
+For range 4 resulting key is tart. The value of index of coincidence is 0.06623002815887807.
+For range 28 resulting key is tarttarttarttarttarttarttart. The value of index of coincidence is 0.06571223872997524.
+For range 36 resulting key is tarttarttarttarttarttarttarttarttart. The value of index of coincidence is 0.06563984075399601.
+
+The right range of key is 4. The right key is tart.
+
+
+
+~~~ 134 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06601590392729635
+the range of minimal delta:30
+
+The resulting key is sleepysleepysleepysleepysleepy
+
+Now printing deleted ranges:
+For range 2 resulting key is ey. The value of index of coincidence is 0.048644334747744544.
+For range 6 resulting key is sleepy. The value of index of coincidence is 0.06650746885927829.
+
+The right range of key is 6. The right key is sleepy.
+
+
+
+~~~ 135 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+minimal index of coincidence by the first method:0.06560467349941033
+the range of minimal delta:60
+
+The resulting key is funnyfunnyfunnyfunnyfunnyfunnyfunnyfunnyfunnyfunnyfunnyfunny
+
+Now printing deleted ranges:
+For range 2 resulting key is nn. The value of index of coincidence is 0.04792346123678547.
+For range 5 resulting key is funny. The value of index of coincidence is 0.06674336405447989.
+For range 20 resulting key is funnyfunnyfunnyfunny. The value of index of coincidence is 0.06585515346658295.
+
+The right range of key is 5. The right key is funny.
+
+
+
+~~~ 136 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06567093409198672
+the range of minimal delta:66
+
+The resulting key is sloppysloppysloppysloppysloppysloppysloppysloppysloppysloppysloppy
+
+Now printing deleted ranges:
+For range 2 resulting key is ol. The value of index of coincidence is 0.04975526569293655.
+For range 6 resulting key is sloppy. The value of index of coincidence is 0.06727039039178183.
+
+The right range of key is 6. The right key is sloppy.
+
+
+
+~~~ 137 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06556612777704364
+the range of minimal delta:56
+
+The resulting key is soapsoapsoapsoapsoapsoapsoapsoapsoapsoapsoapsoapsoapsoap
+
+Now printing deleted ranges:
+For range 2 resulting key is ao. The value of index of coincidence is 0.052104661744208705.
+For range 4 resulting key is soap. The value of index of coincidence is 0.06799073681944706.
+
+The right range of key is 4. The right key is soap.
+
+
+
+~~~ 138 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0655390718089865
+the range of minimal delta:54
+
+The resulting key is injureinjureinjureinjureinjureinjureinjureinjureinjure
+
+Now printing deleted ranges:
+For range 2 resulting key is ie. The value of index of coincidence is 0.04673612464668634.
+For range 6 resulting key is injure. The value of index of coincidence is 0.06600323695972318.
+
+The right range of key is 6. The right key is injure.
+
+
+
+~~~ 139 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+ 12 was deleted
+
+minimal index of coincidence by the first method:0.06557880326926038
+the range of minimal delta:30
+
+The resulting key is noticenoticenoticenoticenotice
+
+Now printing deleted ranges:
+For range 2 resulting key is ci. The value of index of coincidence is 0.04789348540857838.
+For range 6 resulting key is notice. The value of index of coincidence is 0.06588012748794284.
+For range 12 resulting key is noticenotice. The value of index of coincidence is 0.06561796152012923.
+
+The right range of key is 6. The right key is notice.
+
+
+
+~~~ 140 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 9 was deleted
+
+minimal index of coincidence by the first method:0.06554066992560797
+the range of minimal delta:18
+
+The resulting key is worthlessworthless
+
+Now printing deleted ranges:
+For range 2 resulting key is ss. The value of index of coincidence is 0.04265876219137468.
+For range 9 resulting key is worthless. The value of index of coincidence is 0.06539779776882737.
+
+The right range of key is 9. The right key is worthless.
+
+
+
+~~~ 141 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06533800242346043
+the range of minimal delta:6
+
+The resulting key is quince
+
+Now printing deleted ranges:
+For range 2 resulting key is cu. The value of index of coincidence is 0.046203014059535544.
+
+The right range of key is 6. The right key is quince.
+
+
+
+~~~ 142 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06711676566327732
+the range of minimal delta:56
+
+The resulting key is licenselicenselicenselicenselicenselicenselicenselicense
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.041743186260925574.
+For range 7 resulting key is license. The value of index of coincidence is 0.06801082418391206.
+
+The right range of key is 7. The right key is license.
+
+
+
+~~~ 143 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06628909112836641
+the range of minimal delta:42
+
+The resulting key is rottenrottenrottenrottenrottenrottenrotten
+
+Now printing deleted ranges:
+For range 2 resulting key is en. The value of index of coincidence is 0.04876099956419748.
+For range 6 resulting key is rotten. The value of index of coincidence is 0.06693249433877452.
+
+The right range of key is 6. The right key is rotten.
+
+
+
+~~~ 144 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 55 was deleted
+
+minimal index of coincidence by the first method:0.0653621232568601
+the range of minimal delta:65
+
+The resulting key is honeyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoney
+
+Now printing deleted ranges:
+For range 2 resulting key is no. The value of index of coincidence is 0.04322316732850395.
+For range 5 resulting key is honey. The value of index of coincidence is 0.06723095390367886.
+For range 55 resulting key is honeyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoneyhoney. The value of index of coincidence is 0.06627757490336772.
+
+The right range of key is 5. The right key is honey.
+
+
+
+~~~ 145 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0689923469387755
+the range of minimal delta:48
+
+The resulting key is tickletickletickletickletickletickletickletickle
+
+Now printing deleted ranges:
+For range 2 resulting key is le. The value of index of coincidence is 0.046650528606052274.
+For range 6 resulting key is tickle. The value of index of coincidence is 0.07078964934806926.
+
+The right range of key is 6. The right key is tickle.
+
+
+
+~~~ 146 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06503879892037787
+the range of minimal delta:64
+
+The resulting key is lamelamelamelamelamelamelamelamelamelamelameaamelamelamelamelame
+
+Now printing deleted ranges:
+For range 2 resulting key is me. The value of index of coincidence is 0.055706290295501365.
+For range 4 resulting key is lame. The value of index of coincidence is 0.06714669767122414.
+
+The right range of key is 4. The right key is lame.
+
+
+
+~~~ 147 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.0661985031115345
+the range of minimal delta:42
+
+The resulting key is mothermothermothermothermothermothermother
+
+Now printing deleted ranges:
+For range 2 resulting key is th. The value of index of coincidence is 0.049078104361832034.
+For range 6 resulting key is mother. The value of index of coincidence is 0.06772513277843624.
+
+The right range of key is 6. The right key is mother.
+
+
+
+~~~ 148 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06749363008580253
+the range of minimal delta:60
+
+The resulting key is disgustingdisgustingdisgustingdisgustingdisgustingdisgusting
+
+Now printing deleted ranges:
+For range 2 resulting key is si. The value of index of coincidence is 0.04452019127853211.
+For range 5 resulting key is sisgg. The value of index of coincidence is 0.05471084375518298.
+For range 10 resulting key is disgusting. The value of index of coincidence is 0.06917465966487273.
+
+The right range of key is 10. The right key is disgusting.
+
+
+
+~~~ 149 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06666075125702454
+the range of minimal delta:35
+
+The resulting key is tramptramptramptramptramptramptramp
+
+Now printing deleted ranges:
+For range 2 resulting key is ta. The value of index of coincidence is 0.042218543046357616.
+For range 5 resulting key is tramp. The value of index of coincidence is 0.0679139861991288.
+
+The right range of key is 5. The right key is tramp.
+
+
+
+~~~ 150 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+ 18 was deleted
+
+minimal index of coincidence by the first method:0.0661032924190819
+the range of minimal delta:63
+
+The resulting key is hathathathathathathathathathathathathathathathathathathathathat
+
+Now printing deleted ranges:
+For range 2 resulting key is ta. The value of index of coincidence is 0.04841117452815259.
+For range 3 resulting key is hat. The value of index of coincidence is 0.06792146581102892.
+For range 18 resulting key is hathathathathathat. The value of index of coincidence is 0.06685952924920531.
+
+The right range of key is 3. The right key is hat.
+
+
+
+~~~ 151 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 15 was deleted
+
+ 25 was deleted
+
+minimal index of coincidence by the first method:0.06555640455682135
+the range of minimal delta:40
+
+The resulting key is tracetracetracetracetracetracetracetrace
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04340304103886078.
+For range 5 resulting key is trace. The value of index of coincidence is 0.06629687459562979.
+For range 15 resulting key is tracetracetrace. The value of index of coincidence is 0.06593460682057893.
+For range 25 resulting key is tracetracetracetracetrace. The value of index of coincidence is 0.06560716223548563.
+
+The right range of key is 5. The right key is trace.
+
+
+
+~~~ 152 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 10 was deleted
+
+minimal index of coincidence by the first method:0.06615542216886754
+the range of minimal delta:50
+
+The resulting key is nauseatingnauseatingnauseatingnauseatingnauseating
+
+Now printing deleted ranges:
+For range 2 resulting key is na. The value of index of coincidence is 0.044151670067823445.
+For range 5 resulting key is naine. The value of index of coincidence is 0.05249870570698081.
+For range 10 resulting key is nauseating. The value of index of coincidence is 0.06747249036353489.
+
+The right range of key is 10. The right key is nauseating.
+
+
+
+~~~ 153 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06680891417733523
+the range of minimal delta:30
+
+The resulting key is verseverseverseverseverseverse
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04678860026384813.
+For range 5 resulting key is verse. The value of index of coincidence is 0.06784419801094725.
+
+The right range of key is 5. The right key is verse.
+
+
+
+~~~ 154 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06624261247548918
+the range of minimal delta:36
+
+The resulting key is notenotenotenotenotenotenotenotenote
+
+Now printing deleted ranges:
+For range 2 resulting key is no. The value of index of coincidence is 0.05154903852781033.
+For range 4 resulting key is note. The value of index of coincidence is 0.06676668046167288.
+
+The right range of key is 4. The right key is note.
+
+
+
+~~~ 155 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 3 was deleted
+
+minimal index of coincidence by the first method:0.06554904132195513
+the range of minimal delta:30
+
+The resulting key is boxboxboxboxboxboxboxboxboxbox
+
+Now printing deleted ranges:
+For range 2 resulting key is bb. The value of index of coincidence is 0.0496420543393276.
+For range 3 resulting key is box. The value of index of coincidence is 0.06543662816537317.
+
+The right range of key is 3. The right key is box.
+
+
+
+~~~ 156 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+minimal index of coincidence by the first method:0.06823952470293934
+the range of minimal delta:60
+
+The resulting key is closeclosecloseclosecloseclosecloseclosecloseclosecloseclose
+
+Now printing deleted ranges:
+For range 2 resulting key is sl. The value of index of coincidence is 0.04352559906987791.
+For range 5 resulting key is close. The value of index of coincidence is 0.07005367879849207.
+
+The right range of key is 5. The right key is close.
+
+
+
+~~~ 157 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06679989894810628
+the range of minimal delta:7
+
+The resulting key is laborer
+
+Now printing deleted ranges:
+For range 2 resulting key is rr. The value of index of coincidence is 0.04527504512951121.
+
+The right range of key is 7. The right key is laborer.
+
+
+
+~~~ 158 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 6 was deleted
+
+minimal index of coincidence by the first method:0.06505705705705705
+the range of minimal delta:30
+
+The resulting key is sticksstickssticksstickssticks
+
+Now printing deleted ranges:
+For range 2 resulting key is st. The value of index of coincidence is 0.045833037300177626.
+For range 6 resulting key is sticks. The value of index of coincidence is 0.0641688221387846.
+
+The right range of key is 6. The right key is sticks.
+
+
+
+~~~ 159 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06560290099646417
+the range of minimal delta:8
+
+The resulting key is teamteam
+
+Now printing deleted ranges:
+For range 2 resulting key is tm. The value of index of coincidence is 0.047930443228255196.
+For range 4 resulting key is team. The value of index of coincidence is 0.06531314665553266.
+
+The right range of key is 4. The right key is team.
+
+
+
+~~~ 160 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 7 was deleted
+
+minimal index of coincidence by the first method:0.06533692860529443
+the range of minimal delta:21
+
+The resulting key is callouscallouscallous
+
+Now printing deleted ranges:
+For range 2 resulting key is ll. The value of index of coincidence is 0.04161255671524538.
+For range 7 resulting key is callous. The value of index of coincidence is 0.06422655931258978.
+
+The right range of key is 7. The right key is callous.
+
+
+
+~~~ 161 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 5 was deleted
+
+ 20 was deleted
+
+ 40 was deleted
+
+minimal index of coincidence by the first method:0.06551531288373391
+the range of minimal delta:65
+
+The resulting key is clearmlearclearclearclearclearclearclearclearclearcltarclearclear
+
+Now printing deleted ranges:
+For range 2 resulting key is ee. The value of index of coincidence is 0.04476660525289474.
+For range 5 resulting key is clear. The value of index of coincidence is 0.06476588009560037.
+For range 20 resulting key is clearclearclearclear. The value of index of coincidence is 0.06583118818588267.
+For range 40 resulting key is clearclearclearclearclearclearclearclear. The value of index of coincidence is 0.06553278688524589.
+
+The right range of key is 5. The right key is clear.
+
+
+
+~~~ 162 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06552189556828762
+the range of minimal delta:12
+
+The resulting key is rulerulerule
+
+Now printing deleted ranges:
+For range 2 resulting key is le. The value of index of coincidence is 0.05257480017994755.
+For range 4 resulting key is rule. The value of index of coincidence is 0.0652680050181984.
+
+The right range of key is 4. The right key is rule.
+
+
+
+~~~ 163 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+ 4 was deleted
+
+minimal index of coincidence by the first method:0.06573645933873537
+the range of minimal delta:8
+
+The resulting key is boundary
+
+Now printing deleted ranges:
+For range 2 resulting key is dn. The value of index of coincidence is 0.04561579043114426.
+For range 4 resulting key is barn. The value of index of coincidence is 0.05261956381685462.
+
+The right range of key is 8. The right key is boundary.
+
+
+
+~~~ 164 ~~~
+
+
+ 2 was deleted
+
+ 2 was deleted
+
+minimal index of coincidence by the first method:0.06537033375079648
+the range of minimal delta:3
+
+The resulting key is box
+
+Now printing deleted ranges:
+For range 2 resulting key is bb. The value of index of coincidence is 0.0502019669827889.
+
+The right range of key is 3. The right key is box.
+
