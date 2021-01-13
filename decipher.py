@@ -1,5 +1,5 @@
 from math import ceil
-from modules import cleaner_of_rubbish, ic_searcher, key_searcher, alphabet_dict, n_y_dict_all, count_letter, index_of_c_mod_1, d_r
+from modules import *
 from json import load
 from random import randint
 from os import listdir
@@ -13,7 +13,7 @@ alphabet_dict = {
 }
 count_letter = {'en': 26, 'ua': 33}
 start_message = "~~~  STARTING A PROGRAMME  ~~~\n"
-index_of_coincidence_lang = {'en': 0.06552, 'ua': 0.05004}
+
 length_boundary = 3000
 
 def encrypt(language, text, key):
@@ -32,7 +32,7 @@ def encrypt(language, text, key):
 
     return output
 
-def encrypt_mod_1(language, text, key, b):
+def encrypt_mod(language, text, key, b, a=1):
     r = len(key)
     output = ''
     alphabet = alphabet_dict[language]
@@ -42,7 +42,7 @@ def encrypt_mod_1(language, text, key, b):
     doubling = 0
     for letter in text:
         try:
-            output += alphabet[(alphabet.index(letter.lower()) + alphabet.index(key[i%r]) + b*doubling)%count_l]
+            output += alphabet[(alphabet.index(letter.lower()) + k_i_r_generator(alphabet.index(key[i%r]), a, b, doubling))%count_l]
             i+=1
             if i%r == 0:
                 doubling += 1
@@ -88,25 +88,65 @@ def decrypt(raw_text, mod=0, b=0):
     output_text += '\nNow printing deleted ranges:\n'
     for r, min_ic in del_array.items():
         res = key_searcher(r, n, text, language)
-        output_text += 'For range {r} resulting key is {res}. '.format(**{'r': r, 'res': res})
-        output_text += "The value of index of coincidence is {a}.\n".format(**{'a': min_ic})
+        output_text += f'For range {r} resulting key is {res}. '
+        output_text += f"The value of index of coincidence is {min_ic}.\n"
     
     output_array = list(del_array.keys())
     output_array.append(min_r)
     return output_text, output_array
 
-def decrypt_d_r(raw_text, b=0):
+def decrypt_d_r(raw_text, key, b=0, a=1):
     text = cleaner_of_rubbish(raw_text)
     output_text = ""
     natural_boundary = ceil(len(text)/33)-1
+    right_r = len(key)
 
-    r_dict = d_r(natural_boundary, text, language, b=b)
+    r_dict, r_pres = d_r(natural_boundary, text, language, right_r=right_r, b=b, a=a)
 
-    for r, d_r_unit in r_dict.items():
-        res = key_searcher(r, len(text), text, language, b=b)
-        output_text += f"\nFor range {r} resulting key is {res}. "
-        output_text += f"The D_r is {d_r_unit}.\n"
-    
+    if a == 1:
+        for r, d_r_unit in r_dict.items():
+            res = key_searcher(r, len(text), text, language, b=b)
+            output_text += f"\nFor range {r} resulting key is {res}. "
+            output_text += f"The D_r is {d_r_unit}.\n"
+        
+        if not r_pres:
+            res = key_searcher(right_r, len(text), text, language, b=b)
+            output_text += f"\n\nFor NOT FOUND range {right_r} resulting key is {res}. "
+            output_text += f"The D_r is {d_r_unit}.\n"
+    else:
+        for r, d_r_unit in r_dict.items():
+            res = key_searcher_spec(r, text, language, a, b)
+            points = 0
+            for i in range(r):
+                try:
+                    if key[i] in res[i]:
+                        points += 1
+                except IndexError:
+                    output_text += f"\nFor range {r} resulting key couldn't be found. "
+                    output_text += f"The D_r is {d_r_unit}.\n"
+
+            if points == right_r:
+                full_key = True
+                output_text += f"\nFor range {r} resulting key COULD BE RECOVERED. "
+                output_text += f"The D_r is {d_r_unit}.\n"
+                break
+            elif points > 0:
+                output_text += f"\nFor range {r} resulting key couldnt be fully recovered. "
+                output_text += f"The D_r is {d_r_unit}.\n"
+            else:
+                output_text += f"\nFor range {r} resulting key couldn't be found. "
+                output_text += f"The D_r is {d_r_unit}.\n"                
+        
+        if not r_pres:
+            res = key_searcher_spec(right_r, text, language, a, b)
+            points = 0
+            for i in range(right_r):
+                if key[i] in res[i]:
+                    points += 1
+            
+            if points == right_r:
+                full_key = True
+
     output_array = list(r_dict.keys())
     return output_text, output_array
 
@@ -169,13 +209,17 @@ for text_file in list_of_data:
         unit = text_data[start_point:end_point+1]
         start_point = end_point + 1
         key = list_of_keys[randint(0, length_of_list_of_keys-1)]
-        b = randint(1, count_letter[language]-1)
 
         # encrypting
         if modification == 0:
             encrypted_text = encrypt(language, unit, key)
-        elif modification == 1 or modification == 2:
-            encrypted_text = encrypt_mod_1(language, unit, key, b)
+        elif modification >= 1 and modification <= 2:
+            b = randint(1, count_letter[language]-1)
+            encrypted_text = encrypt_mod(language, unit, key, b)
+        elif modification == 3:
+            b = randint(1, count_letter[language]-1)
+            a = randint(2, count_letter[language])     # NATURAL BOUNDING !!!!!!!!!
+            encrypted_text = encrypt_mod(language, unit, key, b, a)
         
         # length of the text should be at least 2, cuz' of the principal of index's of coincidence formula
         if len(encrypted_text) <= 1:
@@ -186,7 +230,9 @@ for text_file in list_of_data:
         elif modification == 1:
             result_txt, list_of_ranges = decrypt(encrypted_text, mod=1, b=b)
         elif modification == 2:
-            result_txt, list_of_ranges = decrypt_d_r(encrypted_text, b=b)
+            result_txt, list_of_ranges = decrypt_d_r(encrypted_text, key, b=b)
+        elif modification == 3:
+            result_txt, list_of_ranges = decrypt_d_r(encrypted_text, key, b=b, a=a)
 
         # listing failed deciphering
         if not (len(key) in list_of_ranges):
@@ -195,7 +241,9 @@ for text_file in list_of_data:
         # Adding some information to output text
         result_txt = "\n\n~~~ " +str(number_of_example) + " ~~~\n" + result_txt
         result_txt += f"\nThe right range of key is {str(len(key))}. The right key is {key}.\n"
-        if modification >= 1:
+        if modification == 3:
+            result_txt += f"The value of b is {str(b)}. The value of a is {str(a)}.\n"
+        elif modification >= 1:
             result_txt += f"The value of b is {str(b)}.\n"
         # Creating log file
         

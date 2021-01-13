@@ -4,7 +4,7 @@ alphabet_dict = {
     'en': ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'],
     'ua': ['а', 'б', 'в', 'г', 'ґ', 'д', 'е', 'є', 'ж', 'з', 'и', 'і', 'ї', 'й', 'к', 'л', 'м', 'н', 'о', 'п', 'р', 'с', 'т', 'у', 'ф', 'х', 'ц', 'ч', 'ш', 'щ', 'ь', 'ю', 'я']
 }
-alphabet = alphabet_dict['en']
+
 n_y_dict_all = {
     'en':{'a': 0, 'b': 0, 'c': 0, 'd': 0, 'e': 0, 'f': 0, 'g': 0, 'h': 0, 'i': 0, 'j': 0, 'k': 0,
         'l': 0, 'm': 0, 'n': 0, 'o': 0, 'p': 0, 'q': 0, 'r': 0, 's': 0, 't': 0, 'u': 0, 'v': 0,
@@ -17,10 +17,11 @@ n_y_dict_all = {
 }
 
 count_letter = {'en': 26, 'ua': 33}
-
+index_of_coincidence_lang = {'en': 0.06552, 'ua': 0.05004}
 
 def index_of_c(text, language):
     global n_y_dict_all
+    alphabet = alphabet_dict[language]
     n_y_dict = deepcopy(n_y_dict_all[language])
     n = len(text)
 
@@ -35,6 +36,7 @@ def index_of_c(text, language):
 
 def index_of_c_mod_1(text, language, b):
     global n_y_dict_all
+    alphabet = alphabet_dict[language]
     n_y_dict = deepcopy(n_y_dict_all[language])
     n = len(text)
     for letter in text:
@@ -54,8 +56,9 @@ def size_normalizer(data_dict):
             new_dict[k][key.lower()] = value
     return new_dict
 
-def m_func(g, text_dict, frequency_dict, number_of_letters):
+def m_func(g, text_dict, frequency_dict, number_of_letters, language):
     m_sum = 0
+    alphabet = alphabet_dict[language]
     for t in range(0, number_of_letters):
         p = frequency_dict[alphabet[t]]
         m_sum += p*text_dict[alphabet[(t+g)%number_of_letters]]
@@ -69,6 +72,7 @@ def cleaner_of_rubbish(text):
     return res
 
 def ic_searcher(r, n, text, language, mod, b=0):
+    alphabet = alphabet_dict[language]
     text_arr = []
     index_of_coincidence_r = 0
     for _ in range(0, r):
@@ -93,6 +97,7 @@ def ic_searcher(r, n, text, language, mod, b=0):
     return index_of_coincidence_r
 
 def key_searcher(r, n, text, language, b=0):
+    alphabet = alphabet_dict[language]
     text_arr = []
     for _ in range(0, r):
         text_arr.append('')
@@ -117,7 +122,7 @@ def key_searcher(r, n, text, language, b=0):
         for key in y_i_dict:
             y_i_dict[key] = y_i.count(key)
         for g in range(0, number_of_letters):
-            m_now = m_func(g, y_i_dict, frequency_dict, number_of_letters)
+            m_now = m_func(g, y_i_dict, frequency_dict, number_of_letters, language)
             if m_now > m_const:
                 m_const = m_now
                 g_const = g
@@ -137,12 +142,13 @@ def diffrence_counting(text1, text2):
     
     return points/length_2
 
-def d_r(r_boundary, text, language, right_r=2, b=0):
+def d_r(r_boundary, text, language, right_r=2, b=0, a=1):
     alphabet = alphabet_dict[language]
     text_numbers = []
     c_lang = count_letter[language]
     r_dict = {}
     n = len(text)
+    right_r_presence = False
 
     for letter in text:
         text_numbers.append(alphabet.index(letter))
@@ -154,16 +160,68 @@ def d_r(r_boundary, text, language, right_r=2, b=0):
         # here is calculating d_r
         d_r_now = 0
         for i in range(n-r):
-            if (text_numbers[i] + b)%c_lang == (text_numbers[i+r]):
+            if (a*text_numbers[i] + b)%c_lang == (text_numbers[i+r]):
                 d_r_now += 1
 
         # here is deciding best r:
-        if d_r_now >= int(d_r_best*1.2) or r == right_r:
+        if d_r_now >= int(d_r_best*1.2):
             if r_best != -1:
                 r_dict[r_best] = d_r_best
+
+            if r == right_r:
+                right_r_presence = True
+            
             d_r_best = d_r_now
             r_best = r
-    
+        elif r == right_r:
+            r_dict[right_r] = d_r_now
+            right_r_presence = True
+
     r_dict[r_best] = d_r_best
 
-    return r_dict
+    return r_dict, right_r_presence
+
+def k_i_r_generator(k_i, a, b, doubling):
+    if a == 1:
+        return k_i + b*doubling
+    else:
+        res = 0
+        for n in range(doubling):
+            res += a**n
+        res *= b
+        res += (a**doubling)*k_i
+        return res
+
+def key_searcher_spec(r, text, language, a, b):
+    c_lang = count_letter[language]
+    alphabet = alphabet_dict[language]
+    ic_lang = index_of_coincidence_lang[language]
+    y_text = []
+    r_dict = {}
+    
+    for i in range(r):
+        y_text.append(text[i::r])
+    
+    for j in range(r):
+        block_of_text = y_text[j]
+        r_dict[j] = {}
+
+        for letter_number in range(c_lang):
+            modified = letter_number
+            deciphered_text = alphabet[(alphabet.index(block_of_text[0])-modified)%c_lang]
+
+            for i in range(1, len(block_of_text)):
+                modified = k_i_r_generator(modified, a, b, 1)%c_lang
+                deciphered_text += alphabet[(alphabet.index(block_of_text[i]) - modified)%c_lang]
+
+            ic_now = index_of_c(deciphered_text, language)
+            delta_now = abs(ic_now-ic_lang)
+
+            if delta_now < 0.01:
+                r_dict[j][alphabet[letter_number]] = ic_now
+    
+    output = []
+    for i in r_dict.values():
+        output.append(list(i.keys()))
+    
+    return output
