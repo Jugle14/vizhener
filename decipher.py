@@ -1,10 +1,12 @@
 from math import ceil
-from modules import *
 from json import load, dump
 from random import randint
 from os import listdir
 from sys import exit
 from datetime import datetime 
+from modules import (k_i_r_generator, cleaner_of_rubbish, 
+    index_of_coincidence_lang, ic_searcher,
+    key_searcher, d_r, key_searcher_spec)
 
 frequency_dict = {'en': ['e', 't', 'a', 'o', 'n', 'i', 'r', 's', 'h'], 'ua': ['о', 'а', 'н', 'і', 'и', 'в', 'р', 'т', 'е', 'с', 'к', 'л']}
 alphabet_dict = {
@@ -184,7 +186,8 @@ def decrypt_d_r(raw_text, key, b=0, a=1):
                         points += 1
                 
                 if points == right_r:
-                    full_key = True
+                    print("NO IDEA")
+                    #full_key = True
             else:
                 data_gather[length_boundary][2] += 1
                 output_array = list(r_dict.keys())
@@ -210,6 +213,8 @@ aim = int(input('Aim of the work ("1" for logs, "0" for data gathering)>>'))
 if not aim:
     start = int(input("Write your start point for boundary length>>"))
     length_boundary_range = range(start, 1501, 20)
+else:
+    length_boundary_range = [3000]
 
 start_time = datetime.now()
 # Importind list of text files and list of keys
@@ -290,7 +295,7 @@ for text_file in list_of_data:
                 encrypted_text = encrypt_mod(language, unit, key, b)
             elif modification == 3:
                 b = randint(2, count_letter[language]-1)
-                a = randint(2, count_letter[language])     # NATURAL BOUNDING !!!!!!!!!
+                a = randint(2, count_letter[language])     
                 encrypted_text = encrypt_mod(language, unit, key, b, a)
             
             # decrypting
