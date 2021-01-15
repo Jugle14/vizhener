@@ -13,7 +13,7 @@ def k_i_r_generator(k_i, a, b, doubling):
         res += (a**doubling)*k_i
         return res
 
-a, b = 13, 1
+a, b = 130, 1
 c_lang = 26
 excepted = []
 '''
@@ -80,7 +80,7 @@ r_dict = {}
 ic_lang = 0.06552
 for i in range(right_r):
     y_text.append(enc[i::right_r])
-    print("\n", y_text[i], "\n")
+
 
 
 for j in range(right_r):
@@ -102,3 +102,4 @@ for j in range(right_r):
             r_dict[j][alphabet[letter_number]] = ic_now
 
 print(r_dict)
+

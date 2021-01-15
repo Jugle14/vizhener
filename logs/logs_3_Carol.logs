@@ -1,0 +1,562 @@
+
+
+~~~ 1 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 95.
+
+For range 8 resulting key COULD BE RECOVERED. The D_r is 116.
+
+The right range of key is 8. The right key is separate.
+The value of b is 18. The value of a is 17.
+
+
+
+~~~ 2 ~~~
+
+For range 9 resulting key COULD BE RECOVERED. The D_r is 114.
+
+The right range of key is 9. The right key is reproduce.
+The value of b is 21. The value of a is 25.
+
+
+
+~~~ 3 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 106.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 130.
+
+The right range of key is 5. The right key is serve.
+The value of b is 22. The value of a is 10.
+
+
+
+~~~ 4 ~~~
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 87.
+
+The right range of key is 4. The right key is skin.
+The value of b is 22. The value of a is 23.
+
+
+
+~~~ 5 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 84.
+
+For range 3 resulting key COULD BE RECOVERED. The D_r is 110.
+
+The right range of key is 3. The right key is fix.
+The value of b is 21. The value of a is 12.
+
+
+
+~~~ 6 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 122.
+
+The right range of key is 5. The right key is queen.
+The value of b is 16. The value of a is 24.
+
+
+
+~~~ 7 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 135.
+
+The right range of key is 6. The right key is feeble.
+The value of b is 13. The value of a is 10.
+
+
+
+~~~ 8 ~~~
+
+For range 3 resulting key COULD BE RECOVERED. The D_r is 84.
+
+The right range of key is 3. The right key is sad.
+The value of b is 24. The value of a is 9.
+
+
+
+~~~ 9 ~~~
+
+For range 9 resulting key COULD BE RECOVERED. The D_r is 96.
+
+The right range of key is 9. The right key is maddening.
+The value of b is 23. The value of a is 11.
+
+
+
+~~~ 10 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 93.
+
+The right range of key is 7. The right key is elegant.
+The value of b is 13. The value of a is 20.
+
+
+
+~~~ 11 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 91.
+
+For range 3 resulting key couldn't be found. The D_r is 113.
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 168.
+
+The right range of key is 4. The right key is vast.
+The value of b is 21. The value of a is 14.
+
+
+
+~~~ 12 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 179.
+
+The right range of key is 6. The right key is scared.
+The value of b is 6. The value of a is 26.
+
+
+
+~~~ 13 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 84.
+
+For range 4 resulting key couldn't be found. The D_r is 105.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 133.
+
+The right range of key is 5. The right key is cloth.
+The value of b is 23. The value of a is 24.
+
+
+
+~~~ 14 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 82.
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 78.
+
+The right range of key is 4. The right key is kill.
+The value of b is 21. The value of a is 11.
+
+
+
+~~~ 15 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 103.
+
+The right range of key is 6. The right key is chubby.
+The value of b is 8. The value of a is 2.
+
+
+
+~~~ 16 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 99.
+
+The right range of key is 5. The right key is steel.
+The value of b is 23. The value of a is 22.
+
+
+
+~~~ 17 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 98.
+
+The right range of key is 7. The right key is welcome.
+The value of b is 6. The value of a is 24.
+
+
+
+~~~ 18 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 118.
+
+The right range of key is 7. The right key is lacking.
+The value of b is 5. The value of a is 8.
+
+
+
+~~~ 19 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 125.
+
+The right range of key is 7. The right key is longing.
+The value of b is 15. The value of a is 24.
+
+
+
+~~~ 20 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 78.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 100.
+
+The right range of key is 5. The right key is phone.
+The value of b is 3. The value of a is 21.
+
+
+
+~~~ 21 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 96.
+
+For range 7 resulting key couldnt be fully recovered. The D_r is 119.
+
+The right range of key is 7. The right key is creator.
+The value of b is 1. The value of a is 18.
+
+
+
+~~~ 22 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 79.
+
+The right range of key is 6. The right key is search.
+The value of b is 11. The value of a is 22.
+
+
+
+~~~ 23 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 112.
+
+The right range of key is 6. The right key is repeat.
+The value of b is 17. The value of a is 21.
+
+
+
+~~~ 24 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 97.
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 121.
+
+The right range of key is 4. The right key is soap.
+The value of b is 15. The value of a is 24.
+
+
+
+~~~ 25 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 136.
+
+The right range of key is 5. The right key is stuff.
+The value of b is 7. The value of a is 14.
+
+
+
+~~~ 26 ~~~
+
+For range 8 resulting key COULD BE RECOVERED. The D_r is 98.
+
+The right range of key is 8. The right key is aromatic.
+The value of b is 6. The value of a is 25.
+
+
+
+~~~ 27 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 80.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 92.
+
+The right range of key is 5. The right key is mixed.
+The value of b is 4. The value of a is 11.
+
+
+
+~~~ 28 ~~~
+
+For range 3 resulting key COULD BE RECOVERED. The D_r is 97.
+
+The right range of key is 3. The right key is hug.
+The value of b is 5. The value of a is 19.
+
+
+
+~~~ 29 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 94.
+
+The right range of key is 6. The right key is parcel.
+The value of b is 2. The value of a is 24.
+
+
+
+~~~ 30 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 90.
+
+The right range of key is 6. The right key is exotic.
+The value of b is 8. The value of a is 15.
+
+
+
+~~~ 31 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 81.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 99.
+
+The right range of key is 5. The right key is cakes.
+The value of b is 5. The value of a is 21.
+
+
+
+~~~ 32 ~~~
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 97.
+
+The right range of key is 4. The right key is wise.
+The value of b is 17. The value of a is 24.
+
+
+
+~~~ 33 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 90.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 78.
+
+The right range of key is 5. The right key is young.
+The value of b is 8. The value of a is 3.
+
+
+
+~~~ 34 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 211.
+
+The right range of key is 6. The right key is school.
+The value of b is 11. The value of a is 26.
+
+
+
+~~~ 35 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 89.
+
+The right range of key is 5. The right key is cloth.
+The value of b is 6. The value of a is 23.
+
+
+
+~~~ 36 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 142.
+
+The right range of key is 7. The right key is provide.
+The value of b is 3. The value of a is 18.
+
+
+
+~~~ 37 ~~~
+
+For range 10 resulting key COULD BE RECOVERED. The D_r is 105.
+
+The right range of key is 10. The right key is courageous.
+The value of b is 3. The value of a is 25.
+
+
+
+~~~ 38 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 119.
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 154.
+
+The right range of key is 6. The right key is appear.
+The value of b is 22. The value of a is 14.
+
+
+
+~~~ 39 ~~~
+
+For range 10 resulting key couldnt be fully recovered. The D_r is 87.
+
+For range 2 resulting key couldn't be found. The D_r is 111.
+
+The right range of key is 10. The right key is appreciate.
+The value of b is 4. The value of a is 16.
+
+
+
+~~~ 40 ~~~
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 86.
+
+The right range of key is 4. The right key is tire.
+The value of b is 25. The value of a is 6.
+
+
+
+~~~ 41 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 81.
+
+The right range of key is 7. The right key is jumbled.
+The value of b is 4. The value of a is 9.
+
+
+
+~~~ 42 ~~~
+
+For range 10 resulting key COULD BE RECOVERED. The D_r is 77.
+
+The right range of key is 10. The right key is changeable.
+The value of b is 10. The value of a is 3.
+
+
+
+~~~ 43 ~~~
+
+For range 3 resulting key COULD BE RECOVERED. The D_r is 107.
+
+The right range of key is 3. The right key is tap.
+The value of b is 23. The value of a is 4.
+
+
+
+~~~ 44 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 81.
+
+For range 11 resulting key COULD BE RECOVERED. The D_r is 57.
+
+The right range of key is 11. The right key is outstanding.
+The value of b is 12. The value of a is 9.
+
+
+
+~~~ 45 ~~~
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 90.
+
+The right range of key is 4. The right key is dead.
+The value of b is 4. The value of a is 21.
+
+
+
+~~~ 46 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 102.
+
+The right range of key is 5. The right key is nasty.
+The value of b is 9. The value of a is 11.
+
+
+
+~~~ 47 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 81.
+
+The right range of key is 5. The right key is twist.
+The value of b is 16. The value of a is 4.
+
+
+
+~~~ 48 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 93.
+
+The right range of key is 7. The right key is various.
+The value of b is 4. The value of a is 23.
+
+
+
+~~~ 49 ~~~
+
+For range 6 resulting key COULD BE RECOVERED. The D_r is 126.
+
+The right range of key is 6. The right key is stroke.
+The value of b is 19. The value of a is 10.
+
+
+
+~~~ 50 ~~~
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 128.
+
+The right range of key is 5. The right key is shock.
+The value of b is 15. The value of a is 22.
+
+
+
+~~~ 51 ~~~
+
+For range 10 resulting key COULD BE RECOVERED. The D_r is 74.
+
+The right range of key is 10. The right key is productive.
+The value of b is 8. The value of a is 3.
+
+
+
+~~~ 52 ~~~
+
+For range 7 resulting key COULD BE RECOVERED. The D_r is 87.
+
+The right range of key is 7. The right key is spiders.
+The value of b is 23. The value of a is 11.
+
+
+
+~~~ 53 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 121.
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 215.
+
+The right range of key is 4. The right key is pale.
+The value of b is 4. The value of a is 18.
+
+
+
+~~~ 54 ~~~
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 101.
+
+The right range of key is 4. The right key is walk.
+The value of b is 23. The value of a is 3.
+
+
+
+~~~ 55 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 86.
+
+For range 5 resulting key COULD BE RECOVERED. The D_r is 103.
+
+The right range of key is 5. The right key is trees.
+The value of b is 19. The value of a is 15.
+
+
+
+~~~ 56 ~~~
+
+For range 8 resulting key COULD BE RECOVERED. The D_r is 97.
+
+The right range of key is 8. The right key is gullible.
+The value of b is 7. The value of a is 15.
+
+
+
+~~~ 57 ~~~
+
+For range 2 resulting key couldn't be found. The D_r is 85.
+
+For range 4 resulting key COULD BE RECOVERED. The D_r is 113.
+
+The right range of key is 4. The right key is pail.
+The value of b is 25. The value of a is 11.
+
+
+
+~~~ 58 ~~~
+
+For range 3 resulting key COULD BE RECOVERED. The D_r is 22.
+
+The right range of key is 3. The right key is run.
+The value of b is 1. The value of a is 16.
+

@@ -56,9 +56,8 @@ def size_normalizer(data_dict):
             new_dict[k][key.lower()] = value
     return new_dict
 
-def m_func(g, text_dict, frequency_dict, number_of_letters, language):
+def m_func(g, text_dict, frequency_dict, number_of_letters, alphabet):
     m_sum = 0
-    alphabet = alphabet_dict[language]
     for t in range(0, number_of_letters):
         p = frequency_dict[alphabet[t]]
         m_sum += p*text_dict[alphabet[(t+g)%number_of_letters]]
@@ -96,8 +95,8 @@ def ic_searcher(r, n, text, language, mod, b=0):
 
     return index_of_coincidence_r
 
-def key_searcher(r, n, text, language, b=0):
-    alphabet = alphabet_dict[language]
+def key_searcher(r, n, text, language, alphabet, b=0):
+    global count_letter
     text_arr = []
     for _ in range(0, r):
         text_arr.append('')
@@ -122,7 +121,7 @@ def key_searcher(r, n, text, language, b=0):
         for key in y_i_dict:
             y_i_dict[key] = y_i.count(key)
         for g in range(0, number_of_letters):
-            m_now = m_func(g, y_i_dict, frequency_dict, number_of_letters, language)
+            m_now = m_func(g, y_i_dict, frequency_dict, number_of_letters, alphabet)
             if m_now > m_const:
                 m_const = m_now
                 g_const = g
